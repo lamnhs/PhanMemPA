@@ -1,0 +1,1431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BangDiemCapLai" xml:space="preserve">
+    <value>Bảng điểm cấp lại</value>
+    <comment>220</comment>
+  </data>
+  <data name="barButtonItemBaoCaoVanBangChungChi" xml:space="preserve">
+    <value>Báo cáo văn bằng chứng chỉ</value>
+    <comment>176</comment>
+  </data>
+  <data name="barButtonItemBaoCaoVanBangChungChi1" xml:space="preserve">
+    <value>Báo cáo, thống kê</value>
+  </data>
+  <data name="barButtonItemChangePassword" xml:space="preserve">
+    <value>Đổi mật khẩu</value>
+    <comment>049</comment>
+  </data>
+  <data name="barButtonItemConfigureSystem" xml:space="preserve">
+    <value>Cấu hình hệ thống</value>
+    <comment>064</comment>
+  </data>
+  <data name="barButtonItemConfirmReceived" xml:space="preserve">
+    <value>Ngày sinh viên nhận văn bằng, chứng chỉ</value>
+    <comment>102</comment>
+  </data>
+  <data name="barButtonItemDanhHieuChuanXet" xml:space="preserve">
+    <value>Danh hiệu theo chuẩn xét</value>
+    <comment>232</comment>
+  </data>
+<data name="btnOK" xml:space="preserve">
+    <value>Đồng ý</value>
+    <comment>0208</comment>
+  </data>
+  <data name="barButtonItemDanhMucKhoa" xml:space="preserve">
+    <value>Danh mục khóa</value>
+    <comment>146</comment>
+  </data>
+  <data name="barButtonItemDataField" xml:space="preserve">
+    <value>Trường dữ liệu</value>
+    <comment>075</comment>
+  </data>
+<data name="barButtonItemQuanLyFile" xml:space="preserve">
+    <value>Quản lý File</value>
+    <comment>075</comment>
+  </data>
+<data name="barButtonItemThongKeSoLuong" xml:space="preserve">
+    <value>Thống kê số lượng</value>
+    <comment>075</comment>
+  </data>
+<data name="barButtonItemQuanLyNguoiDung" xml:space="preserve">
+    <value>Quản lý người dùng</value>
+    <comment>075</comment>
+  </data>
+<data name="barButtonItemNhanVien" xml:space="preserve">
+    <value>Nhân viên</value>
+    <comment>075</comment>
+  </data>
+<data name="barButtonItemKhachHang" xml:space="preserve">
+    <value>Khách hàng</value>
+    <comment>075</comment>
+  </data>
+  <data name="barButtonItemDefaultSave" xml:space="preserve">
+    <value>Cài đặt thông số mặc định</value>
+    <comment>048</comment>
+  </data>
+  <data name="barButtonItemDegreeAndCertidicateType" xml:space="preserve">
+    <value>Loại văn bằng, chứng chỉ</value>
+    <comment>055</comment>
+  </data>
+  <data name="barButtonItemDesignTemplate" xml:space="preserve">
+    <value>Thiết kế mẫu</value>
+    <comment>083</comment>
+  </data>
+  <data name="barButtonItemDetailTemplate" xml:space="preserve">
+    <value>Chi tiết phôi</value>
+    <comment>082</comment>
+  </data>
+  <data name="barButtonItemDotXacMinhVanBangChungChi" xml:space="preserve">
+    <value>Xác minh văn bằng, chứng chỉ</value>
+  </data>
+  <data name="barButtonItemDuplicateIssueSession" xml:space="preserve">
+    <value>Đợt cấp bản sao</value>
+    <comment>154</comment>
+  </data>
+  <data name="barButtonItemDuplicateNumber" xml:space="preserve">
+    <value>Số vào sổ bản sao</value>
+    <comment>153</comment>
+  </data>
+  <data name="barButtonItemGraduationClassification" xml:space="preserve">
+    <value>Xếp loại</value>
+    <comment>139</comment>
+  </data>
+  <data name="barButtonItemGrid" xml:space="preserve">
+    <value>Lưới hiển  thị</value>
+    <comment>051</comment>
+  </data>
+  <data name="barButtonItemGridColumn" xml:space="preserve">
+    <value>Cột hiển thị</value>
+    <comment>052</comment>
+  </data>
+  <data name="barButtonItemImportExcel" xml:space="preserve">
+    <value>Import dữ liệu từ excel</value>
+    <comment>100</comment>
+  </data>
+  <data name="barButtonItemIssueSession" xml:space="preserve">
+    <value>Đợt cấp</value>
+    <comment>098</comment>
+  </data>
+  <data name="barButtonItemIssueTemplate" xml:space="preserve">
+    <value>Cấp phát phôi</value>
+    <comment>107</comment>
+  </data>
+  <data name="barButtonItemLanguage" xml:space="preserve">
+    <value>Ngôn ngữ</value>
+    <comment>112</comment>
+  </data>
+  <data name="barButtonItemLoaiBaoCao" xml:space="preserve">
+    <value>Loại báo cáo</value>
+    <comment>176</comment>
+  </data>
+<data name="layoutControlItem_hieuTruong" xml:space="preserve">
+    <value>Hiệu trưởng</value>
+    <comment>0550</comment>
+  </data>
+  <data name="barButtonItemLogOut" xml:space="preserve">
+    <value>Đăng nhập lại</value>
+    <comment>050</comment>
+  </data>
+  <data name="barButtonItemManageDuplicate" xml:space="preserve">
+    <value>Quản lý bản sao</value>
+    <comment>155</comment>
+  </data>
+  <data name="barButtonItemManageReferenceNumber" xml:space="preserve">
+    <value>Quản lý số vào sổ</value>
+    <comment>144</comment>
+  </data>
+  <data name="barButtonItemModeOfStudy" xml:space="preserve">
+    <value>Loại hình đào tạo</value>
+    <comment>142</comment>
+  </data>
+<data name="layoutControlItem_diaDanh" xml:space="preserve">
+    <value>Ngày</value>
+    <comment>0578</comment>
+  </data>
+<data name="layoutControlItem_capBac" xml:space="preserve">
+    <value>Cấp bậc</value>
+    <comment>0581</comment>
+  </data>
+<data name="layoutControlItemSignBy" xml:space="preserve">
+    <value>Người ký</value>
+    <comment>0276</comment>
+  </data>
+<data name="layoutControlItemPrintBy" xml:space="preserve">
+    <value>Người in</value>
+    <comment>0276</comment>
+  </data>
+<data name="layoutControlItem_thuaLenh" xml:space="preserve">
+    <value>Thừa lệnh</value>
+    <comment>0579</comment>
+  </data>
+<data name="layoutControlItem_kyThay" xml:space="preserve">
+    <value>Ký thay</value>
+    <comment>0580</comment>
+  </data>
+  <data name="barButtonItemNganhTheoKhoa" xml:space="preserve">
+    <value>Ngành theo khóa</value>
+    <comment>145</comment>
+  </data>
+  <data name="barButtonItemNumberOrderSpecialization" xml:space="preserve">
+    <value>Thứ tự sắp xếp ngành, chuyên ngành</value>
+    <comment>143</comment>
+  </data>
+  <data name="barButtonItemObjectSource" xml:space="preserve">
+    <value>Quản lý đối tượng</value>
+  </data>
+  <data name="barButtonItemPrintDegreeAndCertificate" xml:space="preserve">
+    <value>Quản lý văn bằng, chứng chỉ</value>
+    <comment>101</comment>
+  </data>
+<data name="barButtonItemQuanLyCapLaiVBCC" xml:space="preserve">
+    <value>Quản lý cấp lại văn bằng, chứng chỉ</value>
+    <comment>101</comment>
+  </data>
+  <data name="barButtonItemPrintTemplateSession" xml:space="preserve">
+    <value>Đợt phôi</value>
+    <comment>080</comment>
+  </data>
+  <data name="barButtonItemProgram" xml:space="preserve">
+    <value>CTĐT</value>
+    <comment>079</comment>
+  </data>
+  <data name="barButtonItemQualityStandard" xml:space="preserve">
+    <value>Chuẩn kiểm định chất lượng</value>
+    <comment>113</comment>
+  </data>
+  <data name="barButtonItemQuyetDinh" xml:space="preserve">
+    <value>File quyết định</value>
+  </data>
+  <data name="barButtonItemReport" xml:space="preserve">
+    <value>Mẫu in ấn</value>
+    <comment>140</comment>
+  </data>
+  <data name="barButtonItemReportAndStatisticType" xml:space="preserve">
+    <value>Loại báo cáo, thống kê</value>
+    <comment>053</comment>
+  </data>
+  <data name="barButtonItemSemester" xml:space="preserve">
+    <value>Học kỳ</value>
+    <comment>138</comment>
+  </data>
+  <data name="barButtonItemStudentAndIssueSession" xml:space="preserve">
+    <value>Sinh viên và đợt cấp</value>
+    <comment>099</comment>
+  </data>
+  <data name="barButtonItemStudentReceiveDegreeAndCertificate" xml:space="preserve">
+    <value>Sinh viên nhận văn bằng, chứng chỉ</value>
+    <comment>103</comment>
+  </data>
+  <data name="barButtonItemTemplateBatch" xml:space="preserve">
+    <value>Lô phôi</value>
+    <comment>081</comment>
+  </data>
+  <data name="barButtonItemTemplateType" xml:space="preserve">
+    <value>Loại phôi</value>
+    <comment>076</comment>
+  </data>
+  <data name="barButtonItemThongKeBieuDo" xml:space="preserve">
+    <value>Thống kê biểu đồ văn bằng, chứng chỉ</value>
+  </data>
+  <data name="barButtonItemTitle" xml:space="preserve">
+    <value>Danh hiệu</value>
+    <comment>078</comment>
+  </data>
+  <data name="barButtonItemUserPermission" xml:space="preserve">
+    <value>Phân quyền người dùng</value>
+    <comment>054</comment>
+  </data>
+  <data name="barButtonItemVanBang" xml:space="preserve">
+    <value>File văn bằng</value>
+  </data>
+  <data name="barButtonItemViewObject" xml:space="preserve">
+    <value>Xem đối tượng</value>
+  </data>
+  <data name="barButtonItem_ImportDSCapBanSao" xml:space="preserve">
+    <value>Import danh sách cấp bản sao</value>
+    <comment>222</comment>
+  </data>
+  <data name="barSubItemUploadFile" xml:space="preserve">
+    <value>Cấu hình upload file</value>
+  </data>
+  <data name="BoQuaPhoiChuaIn" xml:space="preserve">
+    <value>Phôi và sinh viên chưa được in. Ban có muốn tiếp tục ?</value>
+  </data>
+  <data name="btnAccepted" xml:space="preserve">
+    <value>Duyệt</value>
+  </data>
+  <data name="btnAddList" xml:space="preserve">
+    <value>Nạp sinh viên cấp bản sao</value>
+    <comment>162</comment>
+  </data>
+  <data name="btnAgree" xml:space="preserve">
+    <value>Đồng ý</value>
+    <comment>042</comment>
+  </data>
+  <data name="BoLocDuLieu" xml:space="preserve">
+    <value>Bộ lọc dữ liệu</value>
+  </data>
+<data name="btnBoLocDuLieu" xml:space="preserve">
+    <value>Bộ lọc dữ liệu</value>
+  </data>
+  <data name="btnCancelAccepted" xml:space="preserve">
+    <value>Hủy duyệt</value>
+  </data>
+  <data name="btnCancelConfirm" xml:space="preserve">
+    <value>Hủy xác nhận</value>
+    <comment>119</comment>
+  </data>
+  <data name="btnCancelIsPrinted" xml:space="preserve">
+    <value>Hủy đã in</value>
+    <comment>188</comment>
+  </data>
+  <data name="btnCancelReferenceNumber" xml:space="preserve">
+    <value>Hủy số vào sổ</value>
+    <comment>124</comment>
+  </data>
+  <data name="btnCancelTemplate" xml:space="preserve">
+    <value>Hủy phôi</value>
+    <comment>187</comment>
+  </data>
+  <data name="btnCapNhatTinhTrangPhoi" xml:space="preserve">
+    <value>Cập nhật tình trạng phôi</value>
+    <comment>226</comment>
+  </data>
+  <data name="btnClose" xml:space="preserve">
+    <value>Thoát</value>
+    <comment>057</comment>
+  </data>
+  <data name="btnConfirm" xml:space="preserve">
+    <value>Xác nhận</value>
+    <comment>065</comment>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>Xóa dữ liệu</value>
+    <comment>044</comment>
+  </data>
+  <data name="btnDeleteAdvanceProgramed" xml:space="preserve">
+    <value>Hủy chương trình CLC</value>
+    <comment>117</comment>
+  </data>
+  <data name="btnDeleteList" xml:space="preserve">
+    <value>Xóa danh sách cấp bản sao</value>
+    <comment>164</comment>
+  </data>
+  <data name="btnFilter" xml:space="preserve">
+    <value>Lọc dữ liệu</value>
+    <comment>045</comment>
+  </data>
+  <data name="btnGetData" xml:space="preserve">
+    <value>In bằng, chứng chỉ từng phôi</value>
+    <comment>121</comment>
+  </data>
+  <data name="btnIssueReferenceNumber" xml:space="preserve">
+    <value>Cấp số vào sổ</value>
+    <comment>125</comment>
+  </data>
+  <data name="btnIssueSerialNumber" xml:space="preserve">
+    <value>Cấp số hiệu văn bằng, chứng chỉ</value>
+    <comment>185</comment>
+  </data>
+  <data name="btnKiemTraVanBangChungChi" xml:space="preserve">
+    <value>Kiểm tra bằng, chứng chỉ</value>
+  </data>
+  <data name="btnLock" xml:space="preserve">
+    <value>Khóa dữ liệu</value>
+    <comment>229</comment>
+  </data>
+  <data name="btnPreview" xml:space="preserve">
+    <value>Xem trước in bằng, chứng chỉ</value>
+  </data>
+  <data name="btnPrintAll" xml:space="preserve">
+    <value>In bằng, chứng chỉ hàng loạt</value>
+  </data>
+  <data name="btnPrintData" xml:space="preserve">
+    <value>In dữ liệu</value>
+    <comment>126</comment>
+  </data>
+  <data name="btnPrintDuplicate" xml:space="preserve">
+    <value>In bản sao</value>
+    <comment>160</comment>
+  </data>
+  <data name="btnReadSource" xml:space="preserve">
+    <value>Đọc đối tượng</value>
+  </data>
+  <data name="btnRegist" xml:space="preserve">
+    <value>Đăng ký</value>
+  </data>
+  <data name="btnRevoke" xml:space="preserve">
+    <value>Thu hồi số hiệu</value>
+    <comment>186</comment>
+  </data>
+  <data name="btnSave" xml:space="preserve">
+    <value>Lưu dữ liệu</value>
+    <comment>043</comment>
+  </data>
+  <data name="btnSaveAndClose" xml:space="preserve">
+    <value>Lưu và thoát</value>
+    <comment>068</comment>
+  </data>
+  <data name="btnSearch" xml:space="preserve">
+    <value>Tra cứu</value>
+    <comment>122</comment>
+  </data>
+  <data name="btnSetAdvanceProgramed" xml:space="preserve">
+    <value>Chương trình CLC</value>
+    <comment>116</comment>
+  </data>
+  <data name="btnSynch" xml:space="preserve">
+    <value>Đồng bộ</value>
+    <comment>109</comment>
+  </data>
+  <data name="btnThuHoiPhoi" xml:space="preserve">
+    <value>Thu hồi phôi</value>
+  </data>
+  <data name="btnUnlock" xml:space="preserve">
+    <value>Mở khóa dữ liệu</value>
+    <comment>230</comment>
+  </data>
+  <data name="btn_CapNhat" xml:space="preserve">
+    <value>Cập nhật</value>
+    <comment>216</comment>
+  </data>
+  <data name="btn_CapNhatCTTaiNang" xml:space="preserve">
+    <value>CT Tài năng</value>
+    <comment>180</comment>
+  </data>
+  <data name="btn_DanhSachSinhVienDangKyLeTotNghiep" xml:space="preserve">
+    <value>Danh sách sinh viên đăng ký lễ tốt nghiệp</value>
+    <comment>176</comment>
+  </data>
+  <data name="btn_DotDangKyLeTotNghiep" xml:space="preserve">
+    <value>Đợt đăng ký lễ tốt nghiệp</value>
+    <comment>174</comment>
+  </data>
+  <data name="btn_DotDangKyLeTotNghiepChiTiet" xml:space="preserve">
+    <value>Đợt đăng ký lễ tốt nghiệp chi tiết</value>
+    <comment>175</comment>
+  </data>
+  <data name="btn_DotHuyPhoi" xml:space="preserve">
+    <value>Đợt hủy phôi</value>
+    <comment>223</comment>
+  </data>
+  <data name="btn_DotNhanBangOnline" xml:space="preserve">
+    <value>Đợt nhận bằng online</value>
+    <comment>168</comment>
+  </data>
+  <data name="btn_DotNhanBangOnLineChiTiet" xml:space="preserve">
+    <value>Đợt nhận bằng online chi tiết</value>
+    <comment>169</comment>
+  </data>
+  <data name="btn_HuyCTTaiNang" xml:space="preserve">
+    <value>Hủy CT Tài năng</value>
+    <comment>181</comment>
+  </data>
+  <data name="btn_PhoiVaDotHuyPhoi" xml:space="preserve">
+    <value>Phôi và đợt hủy phôi</value>
+    <comment>224</comment>
+  </data>
+  <data name="btn_TuDienDuLieu" xml:space="preserve">
+    <value>Từ điển dữ liệu</value>
+    <comment>166</comment>
+  </data>
+  <data name="btn_XacNhanNhanBangOnline" xml:space="preserve">
+    <value>Xác nhận nhận bằng online</value>
+    <comment>170</comment>
+  </data>
+  <data name="butCauHinhUpLoad" xml:space="preserve">
+    <value>File phụ lục</value>
+    <comment>207</comment>
+  </data>
+  <data name="butPhanQuyenLoaiPhoi" xml:space="preserve">
+    <value>Phân quyền loại phôi</value>
+    <comment>206</comment>
+  </data>
+  <data name="CapSoVaoSo?" xml:space="preserve">
+    <value>Cấp số vào sổ các dòng đã chọn ?</value>
+  </data>
+  <data name="checkEditModeOfStudy" xml:space="preserve">
+    <value>Hệ đào tạo</value>
+    <comment>179</comment>
+  </data>
+  <data name="checkEditReferenceNumberDecrease" xml:space="preserve">
+    <value>Giảm dần</value>
+    <comment>136</comment>
+  </data>
+  <data name="checkEditYearGraduation" xml:space="preserve">
+    <value>Năm tốt nghiệp</value>
+    <comment>183</comment>
+  </data>
+  <data name="checkEdit_MaKhoaHoc" xml:space="preserve">
+    <value>Mã khóa học</value>
+    <comment>131</comment>
+  </data>
+  <data name="checkEdit_maLop" xml:space="preserve">
+    <value>Mã lớp</value>
+    <comment>132</comment>
+  </data>
+  <data name="checkEdit_maSV_maHV" xml:space="preserve">
+    <value>Mã SV / Mã HV / Mã HS</value>
+    <comment>130</comment>
+  </data>
+  <data name="checkEdit_TraCuuKhongCanIn" xml:space="preserve">
+    <value>Cho phép tra cứu không cần đã in bằng</value>
+  </data>
+  <data name="ChonTatCa" xml:space="preserve">
+    <value>(Chọn tất cả)</value>
+    <comment>056</comment>
+  </data>
+  <data name="ChuaNhapLyDo" xml:space="preserve">
+    <value>Chưa nhập lý do hủy</value>
+    <comment>094</comment>
+  </data>
+  <data name="ChuaNhapTenDangNhap" xml:space="preserve">
+    <value>Chưa nhập mã người dùng</value>
+    <comment>019</comment>
+  </data>
+  <data name="ChuaUploadFile" xml:space="preserve">
+    <value>Chưa upload file</value>
+    <comment>033</comment>
+  </data>
+  <data name="ChuNhat" xml:space="preserve">
+    <value>Chủ nhật</value>
+    <comment>028</comment>
+  </data>
+  <data name="ClassName" xml:space="preserve">
+    <value>Lớp</value>
+  </data>
+  <data name="cmsRibbonPageCertificateManagement" xml:space="preserve">
+    <value>Quản lý văn bằng và chứng chỉ</value>
+    <comment>077</comment>
+  </data>
+  <data name="cmsRibbonPageExtModule" xml:space="preserve">
+    <value>Mở rộng</value>
+    <comment>110</comment>
+  </data>
+  <data name="cmsRibbonPageGroupDataDictionary" xml:space="preserve">
+    <value>Từ điển dữ liệu</value>
+    <comment>047</comment>
+  </data>
+  <data name="cmsRibbonPageGroupExtModule" xml:space="preserve">
+    <value>Mở rộng</value>
+    <comment>111</comment>
+  </data>
+  <data name="cmsRibbonPageGroupManageDegreeAndCertificate" xml:space="preserve">
+    <value>Quản lý văn bằng, chứng chỉ</value>
+    <comment>108</comment>
+  </data>
+  <data name="cmsRibbonPageGroupPermission" xml:space="preserve">
+    <value>Phân quyền</value>
+    <comment>046</comment>
+  </data>
+  <data name="cmsRibbonPageGroupSystem" xml:space="preserve">
+    <value>Hệ thống</value>
+    <comment>006</comment>
+  </data>
+  <data name="cmsRibbonPageGroupTemplateManagement" xml:space="preserve">
+    <value>Quản lý phôi</value>
+    <comment>085</comment>
+  </data>
+  <data name="cmsRibbonPageSystem" xml:space="preserve">
+    <value>Hệ thống</value>
+    <comment>005</comment>
+  </data>
+  <data name="cmsRibbonPage_InAnBaoCaoThongKe" xml:space="preserve">
+    <value>In ấn, báo cáo, thống kê</value>
+    <comment>177</comment>
+  </data>
+  <data name="cmsRibbonPage_SinhVienDangKyLeTotNghiep" xml:space="preserve">
+    <value>Sinh viên đăng ký lễ tốt nghiệp</value>
+    <comment>177</comment>
+  </data>
+  <data name="CourseName" xml:space="preserve">
+    <value>Khóa học</value>
+  </data>
+  <data name="DaCapSoHieu" xml:space="preserve">
+    <value>Đã cấp số hiệu</value>
+  </data>
+  <data name="DaCapSoVaoSo" xml:space="preserve">
+    <value>Danh sách cấp số vào sổ có sinh viên đã cấp số vào sổ</value>
+  </data>
+  <data name="TonTai" xml:space="preserve">
+    <value>Mã đơn hàng đã tồn tại</value>
+  </data>
+<data name="DaDuyet" xml:space="preserve">
+    <value>Đã duyệt</value>
+  </data>
+  <data name="DaIn" xml:space="preserve">
+    <value>ĐÃ IN</value>
+    <comment>205</comment>
+  </data>
+  <data name="DaInHoacTraCuu" xml:space="preserve">
+    <value>Đã in hoặc đã tra cứu</value>
+  </data>
+  <data name="DaInVanBangChungChi" xml:space="preserve">
+    <value>Đã in</value>
+  </data>
+  <data name="DangNhap" xml:space="preserve">
+    <value>Đăng nhập</value>
+    <comment>012</comment>
+  </data>
+  <data name="DangXuLy" xml:space="preserve">
+    <value>Đang xử lý...</value>
+    <comment>017</comment>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>Dữ liệu</value>
+    <comment>165</comment>
+  </data>
+  <data name="DataLocked" xml:space="preserve">
+    <value>Dữ liệu đã khóa, không thể cập nhật</value>
+    <comment>231</comment>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>Loại từ điển</value>
+  </data>
+  <data name="DateOfSign" xml:space="preserve">
+    <value>Ngày ký</value>
+  </data>
+  <data name="DaTraCuuVanBangChungChi" xml:space="preserve">
+    <value>Vui lòng hủy tra cứu nếu muốn hủy phôi.</value>
+    <comment>095</comment>
+  </data>
+  <data name="DaXacNhan" xml:space="preserve">
+    <value>Đã xác nhận</value>
+  </data>
+  <data name="DegreeAndCertificateType" xml:space="preserve">
+    <value>Loại văn bằng, chứng chỉ</value>
+    <comment>084</comment>
+  </data>
+ <data name="KhachHang" xml:space="preserve">
+    <value>Khách hàng</value>
+    <comment>084</comment>
+  </data>
+  <data name="NhanVien" xml:space="preserve">
+    <value>Nhân viên</value>
+  </data>
+<data name="TinhTrang" xml:space="preserve">
+    <value>Tình trạng</value>
+  </data>
+  <data name="DienGiai" xml:space="preserve">
+    <value>Diễn giải</value>
+  </data>
+  <data name="DinhDangNgay" xml:space="preserve">
+    <value>Định dạng ngày</value>
+  </data>
+  <data name="DinhDangNgayKy" xml:space="preserve">
+    <value>Định dạng ngày ký</value>
+  </data>
+  <data name="DinhDangNgayTiengAnh" xml:space="preserve">
+    <value>Định dạng ngày tiếng Anh</value>
+  </data>
+  <data name="dockPanelPrintTemplate" xml:space="preserve">
+    <value>In văn bằng, chứng chỉ cấp phát số hiệu trước</value>
+    <comment>184</comment>
+  </data>
+  <data name="dockPanelReferenceNumber" xml:space="preserve">
+    <value>Số vào sổ</value>
+    <comment>127</comment>
+  </data>
+  <data name="dockPanelReportType" xml:space="preserve">
+    <value>Loại báo cáo, thống kê</value>
+  </data>
+  <data name="DoiHocKyHienTai" xml:space="preserve">
+    <value>UIS - Đổi học kỳ hiện tại</value>
+    <comment>041</comment>
+  </data>
+  <data name="DoiMatKhau" xml:space="preserve">
+    <value>UIS - Đổi mật khẩu</value>
+    <comment>038</comment>
+  </data>
+  <data name="DongCuaSoKhac" xml:space="preserve">
+    <value>Đóng tất cả cửa sổ khác</value>
+    <comment>008</comment>
+  </data>
+  <data name="DongCuaSoNay" xml:space="preserve">
+    <value>Đóng cửa sổ này</value>
+    <comment>009</comment>
+  </data>
+  <data name="DongTatCa" xml:space="preserve">
+    <value>Đóng tất cả</value>
+    <comment>007</comment>
+  </data>
+  <data name="DonViQuanLy" xml:space="preserve">
+    <value>Đơn vị quản lý</value>
+    <comment>066</comment>
+  </data>
+  <data name="DotDangKyLeTotNghiep" xml:space="preserve">
+    <value>Đợt đăng ký dự lễ tốt nghiệp</value>
+  </data>
+  <data name="DotPhoi" xml:space="preserve">
+    <value>Đợt phôi</value>
+    <comment>195</comment>
+  </data>
+  <data name="DuplicateIssueSessionName" xml:space="preserve">
+    <value>Đợt cấp bản sao</value>
+  </data>
+  <data name="ExportExcel" xml:space="preserve">
+    <value>Xuất excel</value>
+    <comment>069</comment>
+  </data>
+  <data name="frm_CMS_CancelledReason" xml:space="preserve">
+    <value>UIS - Lý do hủy</value>
+    <comment>093</comment>
+  </data>
+  <data name="frm_CMS_ConfirmStudentInIssueSession" xml:space="preserve">
+    <value>UIS - Xác nhận sinh viên cấp phôi</value>
+    <comment>118</comment>
+  </data>
+  <data name="frm_CMS_CopyDesignTemplate" xml:space="preserve">
+    <value>UIS - Sao chép mẫu</value>
+    <comment>096</comment>
+  </data>
+  <data name="frm_CMS_DangKyDuLeTotNghiep" xml:space="preserve">
+    <value>UIS - Đăng ký dự lễ tốt nghiệp</value>
+  </data>
+  <data name="frm_CMS_DanhSachCanXacMinhVanBangChungChi" xml:space="preserve">
+    <value>UIS - Danh sách xác minh văn bằng, chứng chỉ</value>
+  </data>
+  <data name="frm_CMS_Design" xml:space="preserve">
+    <value>UIS - Thiết kế mẫu</value>
+    <comment>097</comment>
+  </data>
+  <data name="frm_CMS_ImportDSCapBanSao" xml:space="preserve">
+    <value>Import danh sách cấp bản sao</value>
+    <comment>221</comment>
+  </data>
+  <data name="frm_CMS_ImportExcel" xml:space="preserve">
+    <value>UIS - Chọn file</value>
+  </data>
+  <data name="frm_CMS_IssueSessionTemplate" xml:space="preserve">
+    <value>UIS - Chi tiết phôi</value>
+    <comment>182</comment>
+  </data>
+  <data name="frm_CMS_ManageDuplicate" xml:space="preserve">
+    <value>UIS - Danh sách cấp văn bằng, chứng chỉ</value>
+    <comment>163</comment>
+  </data>
+  <data name="frm_CMS_QuyetDinhChiTiet" xml:space="preserve">
+    <value>UIS - Chi tiết file</value>
+  </data>
+ <data name="frm_CMS_DanhSachCanSuaTTVBCC" xml:space="preserve">
+    <value>UIS - Danh sách cần sửa</value>
+  </data>
+<data name="frm_CMS_ThanhPhanThamDu" xml:space="preserve">
+    <value>UIS - Chi tiết thành phần tham dự</value>
+  </data>
+  <data name="frm_CMS_SinhVienDotNhanBangOnline" xml:space="preserve">
+    <value>UIS - Sinh viên và đợt nhận bằng online</value>
+    <comment>189</comment>
+  </data>
+  <data name="frm_CMS_UpdateStatus" xml:space="preserve">
+    <value>UIS - Cập nhật tình trạng phôi</value>
+  </data>
+  <data name="FromYear" xml:space="preserve">
+    <value>Từ năm</value>
+  </data>
+  <data name="GhiChu" xml:space="preserve">
+    <value>Ghi chú</value>
+    <comment>151</comment>
+  </data>
+  <data name="GraduateLevelName" xml:space="preserve">
+    <value>Bậc đào tạo</value>
+    <comment>030</comment>
+  </data>
+  <data name="GridID" xml:space="preserve">
+    <value>Mã lưới</value>
+  </data>
+  <data name="GridName" xml:space="preserve">
+    <value>Tên lưới</value>
+  </data>
+  <data name="GroupPanelText" xml:space="preserve">
+    <value>Thả tiêu đề cột muốn nhóm vào đây</value>
+  </data>
+  <data name="HayHuyDeCapLai" xml:space="preserve">
+    <value>Nếu muốn cấp lại hãy hủy số vào sổ củ những sinh viên đã cấp trước</value>
+  </data>
+  <data name="HoiLaiKhiLuu" xml:space="preserve">
+    <value>Hỏi lại khi lưu dữ liệu</value>
+    <comment>058</comment>
+  </data>
+  <data name="HoiLaiKhiXoa" xml:space="preserve">
+    <value>Hỏi lại khi xóa dữ liệu</value>
+    <comment>060</comment>
+  </data>
+  <data name="HoTen" xml:space="preserve">
+    <value>Họ tên</value>
+    <comment>201</comment>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>Mã</value>
+    <comment>074</comment>
+  </data>
+  <data name="ImportExcel" xml:space="preserve">
+    <value>Import Excel</value>
+    <comment>147</comment>
+  </data>
+  <data name="InBangChungChi" xml:space="preserve">
+    <value>In bằng, chứng chỉ</value>
+    <comment>204</comment>
+  </data>
+  <data name="IssueSessionID" xml:space="preserve">
+    <value>Mã đợt cấp</value>
+    <comment>150</comment>
+  </data>
+  <data name="IssueSessionName" xml:space="preserve">
+    <value>Đợt cấp</value>
+  </data>
+  <data name="IssueTemplate?" xml:space="preserve">
+    <value>Cấp phát phôi ?</value>
+    <comment>120</comment>
+  </data>
+  <data name="KhoaTaiKhoan" xml:space="preserve">
+    <value>Tài khoản này đang bị khóa.</value>
+    <comment>014</comment>
+  </data>
+  <data name="KhongCoDuLieu" xml:space="preserve">
+    <value>Không có dữ liệu</value>
+  </data>
+  <data name="KhongCoNhom" xml:space="preserve">
+    <value>Tài khoản này chưa đưa vào nhóm người dùng.</value>
+    <comment>015</comment>
+  </data>
+  <data name="KhongDuSoVaoSo" xml:space="preserve">
+    <value>Không đủ số vào sổ để cấp</value>
+  </data>
+  <data name="KhongKhopXacNhanMatKhau" xml:space="preserve">
+    <value>Mật khẩu và xác nhận mật khẩu không trùng khớp</value>
+    <comment>039</comment>
+  </data>
+  <data name="KhongThanhCong" xml:space="preserve">
+    <value>Không thành công</value>
+    <comment>032</comment>
+  </data>
+<data name="DonTonTai" xml:space="preserve">
+    <value>Đã tồn tại đơn của khách hàng này!!</value>
+    <comment>032</comment>
+  </data>
+<data name="ChuaNhapSL" xml:space="preserve">
+    <value>Chưa nhập số lượng</value>
+    <comment>032</comment>
+  </data>
+<data name="LyDoRequired" xml:space="preserve">
+    <value>Vui lòng nhập lý do</value>
+    <comment>032</comment>
+  </data>
+  <data name="KhongTheKetNoi" xml:space="preserve">
+    <value>Không thể kết nối được với máy chủ</value>
+    <comment>018</comment>
+  </data>
+  <data name="labelControlQRCode" xml:space="preserve">
+    <value>Lưu ý cách tạo QR: (1) Mã sinh viên - (2) Ngẫu nhiên</value>
+  </data>
+  <data name="labelDangTaoBieuMau" xml:space="preserve">
+    <value>Đang tạo biểu mẫu</value>
+  </data>
+  <data name="labelMauInDaTaoXong" xml:space="preserve">
+    <value>Mẫu in đã tạo xong</value>
+  </data>
+  <data name="layoutControlItemAcademicLevel" xml:space="preserve">
+    <value>Bậc ĐT</value>
+    <comment>086</comment>
+  </data>
+  <data name="layoutControlItemAuditType" xml:space="preserve">
+    <value>Loại xét</value>
+  </data>
+  <data name="layoutControlItemChuongTrinhNNA" xml:space="preserve">
+    <value>Chương trình ngôn ngữ anh</value>
+    <comment>217</comment>
+  </data>
+  <data name="layoutControlItemCourse" xml:space="preserve">
+    <value>Khóa học</value>
+    <comment>088</comment>
+  </data>
+  <data name="layoutControlItemDecision" xml:space="preserve">
+    <value>Quyết định</value>
+    <comment>105</comment>
+  </data>
+  <data name="layoutControlItemDesignTemplate" xml:space="preserve">
+    <value>Mẫu in</value>
+    <comment>137</comment>
+  </data>
+  <data name="layoutControlItemDinhDangNgay" xml:space="preserve">
+    <value>Định dạng ngày</value>
+  </data>
+  <data name="layoutControlItemDinhDangNgayKy" xml:space="preserve">
+    <value>Định dạng ngày ký</value>
+  </data>
+  <data name="layoutControlItemDinhDangNgayTiengAnh" xml:space="preserve">
+    <value>Định dạng ngày (Tiếng Anh)</value>
+  </data>
+  <data name="layoutControlItemDotDangKyLeTotNghiep" xml:space="preserve">
+    <value>Đợt đăng ký</value>
+    <comment>173</comment>
+  </data>
+  <data name="layoutControlItemDotDangKyLeTotNghiepChiTiet" xml:space="preserve">
+    <value>Đợt đăng ký lễ tốt nghiệp chi tiết</value>
+    <comment>178</comment>
+  </data>
+  <data name="layoutControlItemDotHuyPhoi" xml:space="preserve">
+    <value>Đợt hủy phôi</value>
+    <comment>225</comment>
+  </data>
+  <data name="layoutControlItemDotNhanBang" xml:space="preserve">
+    <value>Đợt nhận bằng</value>
+    <comment>167</comment>
+  </data>
+  <data name="layoutControlItemDotNhanBangChiTiet" xml:space="preserve">
+    <value>Đợt nhận bằng online chi tiết</value>
+    <comment>172</comment>
+  </data>
+  <data name="layoutControlItemDuplicateLetterReferenceNumber" xml:space="preserve">
+    <value>{1} Ký hiệu sổ</value>
+    <comment>157</comment>
+  </data>
+  <data name="layoutControlItemDuplicateReferenceNumber" xml:space="preserve">
+    <value>{2} Số vào sổ</value>
+    <comment>158</comment>
+  </data>
+  <data name="layoutControlItemDuplicateSession" xml:space="preserve">
+    <value>Đợt cấp bản sao</value>
+    <comment>159</comment>
+  </data>
+  <data name="layoutControlItemFolder" xml:space="preserve">
+    <value>Thư mục:</value>
+  </data>
+  <data name="layoutControlItemForm" xml:space="preserve">
+    <value>Chức năng</value>
+  </data>
+  <data name="layoutControlItemGrids" xml:space="preserve">
+    <value>Lưới</value>
+    <comment>070</comment>
+  </data>
+ <data name="layoutControlItemKhachHang" xml:space="preserve">
+    <value>Khách hàng</value>
+    <comment>070</comment>
+  </data>
+  <data name="layoutControlItemIssueSession" xml:space="preserve">
+    <value>Đợt cấp</value>
+    <comment>106</comment>
+  </data>
+  <data name="layoutControlItemLanguage" xml:space="preserve">
+    <value>Ngôn ngữ đào tạo</value>
+    <comment>114</comment>
+  </data>
+  <data name="layoutControlItemLetterReferenceNumber" xml:space="preserve">
+    <value>{3} Ký hiệu số vào sổ</value>
+    <comment>135</comment>
+  </data>
+  <data name="layoutControlItemModeOfStudy" xml:space="preserve">
+    <value>LHĐT</value>
+    <comment>087</comment>
+  </data>
+  <data name="layoutControlItemNumberCopy" xml:space="preserve">
+    <value>Số lượng bản sao</value>
+    <comment>161</comment>
+  </data>
+  <data name="layoutControlItemPassword" xml:space="preserve">
+    <value>Mật khẩu:</value>
+  </data>
+  <data name="layoutControlItemProvider" xml:space="preserve">
+    <value>Tên miền:</value>
+  </data>
+  <data name="layoutControlItemQualityStandard" xml:space="preserve">
+    <value>Chuẩn kiểm định</value>
+    <comment>115</comment>
+  </data>
+  <data name="layoutControlItemReason" xml:space="preserve">
+    <value>Lý do</value>
+    <comment>227</comment>
+  </data>
+  <data name="layoutControlItemReferenceNumber" xml:space="preserve">
+    <value>{4} Số vào sổ bắt đầu</value>
+    <comment>134</comment>
+  </data>
+  <data name="layoutControlItemSeparatorChar" xml:space="preserve">
+    <value>{2} Ký hiệu phân cách</value>
+    <comment>133</comment>
+  </data>
+  <data name="layoutControlItemServerName" xml:space="preserve">
+    <value>Địa chỉ máy chủ:</value>
+  </data>
+  <data name="layoutControlItemStatus" xml:space="preserve">
+    <value>Tình trạng</value>
+    <comment>228</comment>
+  </data>
+  <data name="layoutControlItemStudent" xml:space="preserve">
+    <value>Sinh viên</value>
+  </data>
+  <data name="layoutControlItemTemplateBatch" xml:space="preserve">
+    <value>Lô phôi</value>
+    <comment>091</comment>
+  </data>
+  <data name="layoutControlItemTemplateSession" xml:space="preserve">
+    <value>Đợt phôi</value>
+    <comment>090</comment>
+  </data>
+  <data name="layoutControlItemTemplateType" xml:space="preserve">
+    <value>Loại phôi</value>
+    <comment>071</comment>
+  </data>
+<data name="layoutControlItemNhom" xml:space="preserve">
+    <value>Nhóm</value>
+    <comment>071</comment>
+  </data>
+ <data name="layoutControlItemTinhTrang" xml:space="preserve">
+    <value>Tình trạng</value>
+    <comment>071</comment>
+  </data>
+  <data name="layoutControlItemTemplateTypeDC" xml:space="preserve">
+    <value>Loại văn bằng, chứng chỉ</value>
+    <comment>104</comment>
+  </data>
+  <data name="layoutControlItemTitle" xml:space="preserve">
+    <value>Danh hiệu</value>
+    <comment>089</comment>
+  </data>
+  <data name="layoutControlItemUserName" xml:space="preserve">
+    <value>Tên đăng nhập:</value>
+  </data>
+  <data name="layoutControlItem_DotNhanBangChiTiet" xml:space="preserve">
+    <value>Đợt chi tiết</value>
+    <comment>190</comment>
+  </data>
+  <data name="LienHeQuanTri" xml:space="preserve">
+    <value>Xin vui lòng liên hệ người quản trị để biết chi tiết.</value>
+    <comment>016</comment>
+  </data>
+  <data name="LoPhoiDaSuDung" xml:space="preserve">
+    <value>Đã dùng</value>
+    <comment>092</comment>
+  </data>
+  <data name="LuuDuLieu?" xml:space="preserve">
+    <value>Lưu dữ liệu ?</value>
+    <comment>062</comment>
+  </data>
+  <data name="MaDotCap" xml:space="preserve">
+    <value>Mã đợt cấp</value>
+  </data>
+  <data name="MaSoKhongDungDinhDang" xml:space="preserve">
+    <value>Mã số không đúng định dạng</value>
+  </data>
+  <data name="MatKhau" xml:space="preserve">
+    <value>Mật khẩu</value>
+    <comment>011</comment>
+  </data>
+  <data name="MatKhauCu" xml:space="preserve">
+    <value>Mật khẩu cũ</value>
+    <comment>036</comment>
+  </data>
+  <data name="mnuImportDotCap" xml:space="preserve">
+    <value>Import đợt cấp bằng, chứng chỉ</value>
+  </data>
+  <data name="mnuXuatDanhSachDotCap" xml:space="preserve">
+    <value>Xuất excel đợt cấp bằng, chứng chỉ</value>
+  </data>
+  <data name="mnu_CapNhatCCNN" xml:space="preserve">
+    <value>Cập nhật chương trình in Tiếng Anh / Pháp / Trung</value>
+    <comment>218</comment>
+  </data>
+  <data name="mnu_CapNhatCNTT" xml:space="preserve">
+    <value>Cập nhật chương trình in chuẩn CNTT</value>
+    <comment>210</comment>
+  </data>
+  <data name="mnu_CapNhatGDQP" xml:space="preserve">
+    <value>Cập nhật chương trình in GDQP</value>
+    <comment>214</comment>
+  </data>
+  <data name="mnu_CapNhatGDTC" xml:space="preserve">
+    <value>Cập nhật chương trình in GDTC</value>
+    <comment>212</comment>
+  </data>
+  <data name="mnu_DanhSachCapBangQD121" xml:space="preserve">
+    <value>Xuất danh sách (Mẫu BGD)</value>
+    <comment>208</comment>
+  </data>
+  <data name="mnu_HuyCCNN" xml:space="preserve">
+    <value>Hủy chương trình in Tiếng Anh / Pháp / Trung</value>
+    <comment>219</comment>
+  </data>
+  <data name="mnu_HuyCNTT" xml:space="preserve">
+    <value>Hủy chương trình in chuẩn CNTT</value>
+    <comment>211</comment>
+  </data>
+  <data name="mnu_HuyGDQP" xml:space="preserve">
+    <value>Hủy chương trình in GDQP</value>
+    <comment>215</comment>
+  </data>
+  <data name="mnu_HuyGDTC" xml:space="preserve">
+    <value>Hủy chương trình in GDTC</value>
+    <comment>213</comment>
+  </data>
+  <data name="mnu_HuyTraCuu" xml:space="preserve">
+    <value>Hủy tra cứu</value>
+    <comment>128</comment>
+  </data>
+  <data name="mnu_TraCuu" xml:space="preserve">
+    <value>Tra cứu</value>
+    <comment>129</comment>
+  </data>
+  <data name="mnu_TraCuuXacNhanVanBangTheoFile" xml:space="preserve">
+    <value>Tra cứu xác nhận văn bằng theo file</value>
+    <comment>233</comment>
+  </data>
+  <data name="NamHocHocKy" xml:space="preserve">
+    <value>Năm học, học kỳ</value>
+  </data>
+  <data name="Nganh" xml:space="preserve">
+    <value>Ngành</value>
+    <comment>199</comment>
+  </data>
+  <data name="NgayHienTai" xml:space="preserve">
+    <value>Ngày hiện tại</value>
+    <comment>029</comment>
+  </data>
+  <data name="NgayIn" xml:space="preserve">
+    <value>Ngày in</value>
+    <comment>198</comment>
+  </data>
+  <data name="NgayKy" xml:space="preserve">
+    <value>Ngày ký</value>
+    <comment>148</comment>
+  </data>
+  <data name="NgaySinh" xml:space="preserve">
+    <value>Ngày sinh</value>
+    <comment>200</comment>
+  </data>
+  <data name="NguoiKy" xml:space="preserve">
+    <value>Người ký</value>
+    <comment>149</comment>
+  </data>
+  <data name="OlogyName" xml:space="preserve">
+    <value>Ngành\Chuyên ngành</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Khác</value>
+  </data>
+  <data name="PhoiDaCap" xml:space="preserve">
+    <value>Phôi đã cấp.</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>Mẫu in</value>
+    <comment>141</comment>
+  </data>
+  <data name="rfrm_CMS_Main" xml:space="preserve">
+    <value>XIN FANG YIN</value>
+    <comment>003</comment>
+  </data>
+  <data name="ribbonControl" xml:space="preserve">
+    <value>RIBBON CMS</value>
+    <comment>004</comment>
+  </data>
+  <data name="ribbonPageGroupBaoCaoThongKe" xml:space="preserve">
+    <value>Báo cáo, thống kê</value>
+  </data>
+  <data name="ribbonPageGroupDuplicateTemplate" xml:space="preserve">
+    <value>Bản sao</value>
+    <comment>152</comment>
+  </data>
+  <data name="ribbonPageGroupSearch" xml:space="preserve">
+    <value>Tra cứu</value>
+    <comment>156</comment>
+  </data>
+  <data name="ribbonPageGroup_SinhVienDangKyLeTotNghiep" xml:space="preserve">
+    <value>Sinh viên đăng ký lễ tốt nghiệp</value>
+  </data>
+  <data name="SaiMatKhau" xml:space="preserve">
+    <value>Sai mật khẩu</value>
+  </data>
+  <data name="SaiMatKhauCu" xml:space="preserve">
+    <value>Không nhập đúng mật mã cũ</value>
+    <comment>040</comment>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="SignBy" xml:space="preserve">
+    <value>Người ký</value>
+  </data>
+  <data name="skinRibbonGalleryBarItemInterfate" xml:space="preserve">
+    <value>Giao diện</value>
+  </data>
+  <data name="SoHieu" xml:space="preserve">
+    <value>Số hiệu</value>
+    <comment>196</comment>
+  </data>
+  <data name="SoLuongPhoiHuy" xml:space="preserve">
+    <value>Số lượng phôi hủy</value>
+  </data>
+  <data name="SoLuongSinhVienCon" xml:space="preserve">
+    <value>Số lượng sinh viên còn</value>
+    <comment>194</comment>
+  </data>
+  <data name="SoVaoSo" xml:space="preserve">
+    <value>Số vào sổ</value>
+    <comment>197</comment>
+  </data>
+  <data name="StatusName" xml:space="preserve">
+    <value>Tình trạng</value>
+  </data>
+  <data name="StudentID" xml:space="preserve">
+    <value>Mã</value>
+  </data>
+  <data name="StudentName" xml:space="preserve">
+    <value>Họ và tên</value>
+  </data>
+  <data name="StudyProgramName" xml:space="preserve">
+    <value>CTĐT</value>
+  </data>
+  <data name="StudyStatusName" xml:space="preserve">
+    <value>Tình trạng</value>
+  </data>
+  <data name="StudyTypeName" xml:space="preserve">
+    <value>Loại hình đào tạo</value>
+    <comment>031</comment>
+  </data>
+  <data name="TatCaCacDotCap" xml:space="preserve">
+    <value>Đang áp dụng tất cả các đợt cấp không thể chỉnh danh sách tham gia.</value>
+  </data>
+  <data name="TemplateTypeName" xml:space="preserve">
+    <value>Loại văn bằng, chứng chỉ</value>
+  </data>
+  <data name="TenDangNhap" xml:space="preserve">
+    <value>Tên đăng nhập</value>
+    <comment>010</comment>
+  </data>
+  <data name="TenTruong" xml:space="preserve">
+    <value>Tên đơn vị</value>
+    <comment>067</comment>
+  </data>
+  <data name="Term" xml:space="preserve">
+    <value>Học kỳ</value>
+    <comment>021</comment>
+  </data>
+  <data name="ThanhCong" xml:space="preserve">
+    <value>Thành công</value>
+    <comment>033</comment>
+  </data>
+  <data name="ThoatUngDung" xml:space="preserve">
+    <value>Thoát</value>
+    <comment>013</comment>
+  </data>
+  <data name="THONGTINPHOISEIN" xml:space="preserve">
+    <value>THÔNG TIN PHÔI SẼ IN</value>
+    <comment>191</comment>
+  </data>
+  <data name="ThongTinTiengAnh" xml:space="preserve">
+    <value>Thông tin tiếng anh</value>
+    <comment>192</comment>
+  </data>
+  <data name="ThongTinTiengViet" xml:space="preserve">
+    <value>Thông tin tiếng việt</value>
+    <comment>193</comment>
+  </data>
+  <data name="ThuBa" xml:space="preserve">
+    <value>Thứ ba</value>
+    <comment>023</comment>
+  </data>
+  <data name="ThuBay" xml:space="preserve">
+    <value>Thứ bảy</value>
+    <comment>027</comment>
+  </data>
+  <data name="ThuHai" xml:space="preserve">
+    <value>Thứ hai</value>
+    <comment>022</comment>
+  </data>
+  <data name="ThuNam" xml:space="preserve">
+    <value>Thứ năm</value>
+    <comment>025</comment>
+  </data>
+  <data name="ThuSau" xml:space="preserve">
+    <value>Thứ sáu</value>
+    <comment>026</comment>
+  </data>
+  <data name="ThuTu" xml:space="preserve">
+    <value>Thứ tư</value>
+    <comment>024</comment>
+  </data>
+  <data name="TiengAnh" xml:space="preserve">
+    <value>Tiếng Anh</value>
+    <comment>001</comment>
+  </data>
+  <data name="TiengViet" xml:space="preserve">
+    <value>Tiếng Việt</value>
+    <comment>002</comment>
+  </data>
+  <data name="TiepTheo" xml:space="preserve">
+    <value>Tiếp theo</value>
+    <comment>202</comment>
+  </data>
+  <data name="TieuDeThongBao" xml:space="preserve">
+    <value>PSC Thông báo</value>
+    <comment>034</comment>
+  </data>
+  <data name="TinhThanh" xml:space="preserve">
+    <value>Tỉnh/Thành phố</value>
+    <comment>035</comment>
+  </data>
+  <data name="ToYear" xml:space="preserve">
+    <value>Đến năm</value>
+  </data>
+  <data name="TraCuuKhongCanInBang" xml:space="preserve">
+    <value>Cho phép tra cứu không cần đã in bằng</value>
+  </data>
+  <data name="TuNamDenNam" xml:space="preserve">
+    <value>Từ năm... đến năm...</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Người dùng</value>
+    <comment>073</comment>
+  </data>
+  <data name="UserGroup" xml:space="preserve">
+    <value>Nhóm người dùng</value>
+    <comment>072</comment>
+  </data>
+  <data name="XacNhanMatKhau" xml:space="preserve">
+    <value>Xác nhận mật khẩu</value>
+    <comment>037</comment>
+  </data>
+  <data name="XacNhanMatKhauKhiLuu" xml:space="preserve">
+    <value>Xác nhận lại mật khẩu khi lưu dữ liệu</value>
+    <comment>059</comment>
+  </data>
+  <data name="XacNhanMatKhauKhiXoa" xml:space="preserve">
+    <value>Xác nhận lại mật khẩu khi xóa dữ liệu</value>
+    <comment>061</comment>
+  </data>
+  <data name="XacNhanUpLoadDe" xml:space="preserve">
+    <value>UpLoad đè file đã có ?</value>
+  </data>
+  <data name="XemTruoc" xml:space="preserve">
+    <value>Xem trước</value>
+    <comment>203</comment>
+  </data>
+  <data name="XoaDuLieu?" xml:space="preserve">
+    <value>Xóa dữ liệu?</value>
+    <comment>063</comment>
+  </data>
+  <data name="XoaSoVaoSo?" xml:space="preserve">
+    <value>Xóa số vào sổ các dòng đã chọn ?</value>
+  </data>
+  <data name="YearStudy" xml:space="preserve">
+    <value>Năm học</value>
+    <comment>020</comment>
+  </data>
+</root>

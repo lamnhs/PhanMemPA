@@ -1,0 +1,1421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PA\\UIS_CMS_DEV21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|d:\\pa\\uis_cms_dev21\\ui\\systemconfiguration\\frm_cms_khachhang_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|solutionrelative:ui\\systemconfiguration\\frm_cms_khachhang_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|d:\\pa\\uis_cms_dev21\\ui\\systemconfiguration\\frm_cms_khachhang_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|solutionrelative:ui\\systemconfiguration\\frm_cms_khachhang_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B8BF0-611D-4478-99EA-2CEB90A42816}|CMSCore\\CMSCore.csproj|D:\\PA\\UIS_CMS_DEV21\\cmscore\\dal\\da_managedegreeandcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B8BF0-611D-4478-99EA-2CEB90A42816}|CMSCore\\CMSCore.csproj|solutionrelative:cmscore\\dal\\da_managedegreeandcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B8BF0-611D-4478-99EA-2CEB90A42816}|CMSCore\\CMSCore.csproj|D:\\PA\\UIS_CMS_DEV21\\cmscore\\bll\\bl_managedegreeandcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B8BF0-611D-4478-99EA-2CEB90A42816}|CMSCore\\CMSCore.csproj|solutionrelative:cmscore\\bll\\bl_managedegreeandcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\frm_cms_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\frm_cms_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\frm_cms_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\frm_cms_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|D:\\PA\\UIS_CMS_DEV21\\ui\\rfrm_cms_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|solutionrelative:ui\\rfrm_cms_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|D:\\PA\\UIS_CMS_DEV21\\ui\\rfrm_cms_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043F259B-EB7C-4CDE-AEC2-5F448D7C5D83}|UI\\CMSUI.csproj|solutionrelative:ui\\rfrm_cms_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B8BF0-611D-4478-99EA-2CEB90A42816}|CMSCore\\CMSCore.csproj|D:\\PA\\UIS_CMS_DEV21\\cmscore\\dal\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B8BF0-611D-4478-99EA-2CEB90A42816}|CMSCore\\CMSCore.csproj|solutionrelative:cmscore\\dal\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\psc\\bienbanhuyphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\psc\\bienbanhuyphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\psc\\xacminhvanbangchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\psc\\xacminhvanbangchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\psc\\sogoccapvanbangcunhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\psc\\sogoccapvanbangcunhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\psc\\sogoccapbansaovanbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\psc\\sogoccapbansaovanbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\psc\\bienbannghiemthuphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\psc\\bienbannghiemthuphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|D:\\PA\\UIS_CMS_DEV21\\cmsreport\\psc\\sogoccapvanbangthacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B47D57D-FC65-440F-8354-82683723A4F2}|CMSReport\\CMSReport.csproj|solutionrelative:cmsreport\\psc\\sogoccapvanbangthacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\baocaothongke\\frm_cms_baocaovanbangchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ukh\\ukh_sogoccapvanbangcunhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ukh\\ukh_socapbansao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ukh\\ukh_baocaonhapphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ukh\\ukh_baocaoquanlyphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_addstudentintoissuesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_managedegreeandcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_phoivadothuyphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_xacminhvanbangchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_dothuyphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_quanlycaplaivbcc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_danhsachcansuattvbcc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_quyetdinhchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_issuesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_inbangchungchitheophoidacapsohieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_templatebatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_templatesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\systemconfiguration\\frm_cms_degreeandcertificatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_danhsachcanxacminhvanbangchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_issuetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ukh\\ukh_baocaoxuatphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frmsoquyetdinh_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_thanhphanthamdu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_listdegreeandcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_manageduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_inbangchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_importstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_duplicateissuesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_printingreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_duplicatenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_permissionofuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_managereferencenumbergeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_cancelledreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_designtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_copydesigntemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_templatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_updatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\managedegreeandcertificate\\frm_cms_thongtinnguoidongdaukyten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ukh\\ukh_phulucsogoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ttqp\\ttqp_phulucsogoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\uah\\uah_sotheodoicapbansao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\uah\\uah_sophulucvanbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\uah\\uah_sogoccapvanbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\ttqp\\ttqp_sogoccapchungchicd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\hcmue\\hcmum_sogoccapvanbangcunhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\cmsreport\\hcmue\\hcmum_socapbansaovanbangcunhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Source\\VANBANG\\UIS_CMS_DEV21\\ui\\baocaothongke\\frm_cms_bolocdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_CMS_TemplateSession.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwHIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:09:27.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_CMS_XacMinhVanBangChungChi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:37:55.542Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_CMS_QuanLyCapLaiVBCC.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs",
+              "ViewState": "AgIAADEEAAAAAAAAAAAUwEkEAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:46:17.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_CMS_KhachHang_Form.cs",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs",
+              "RelativeDocumentMoniker": "UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs",
+              "RelativeToolTip": "UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAwwLkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:14:26.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_CMS_KhachHang_Form.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs",
+              "RelativeDocumentMoniker": "UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs [Design]",
+              "RelativeToolTip": "UI\\SystemConfiguration\\frm_CMS_KhachHang_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:13:54.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_CMS_BaoCaoVanBangChungChi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAswLgBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:32:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BL_ManageDegreeAndCertificate.cs",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSCore\\BLL\\BL_ManageDegreeAndCertificate.cs",
+              "RelativeDocumentMoniker": "CMSCore\\BLL\\BL_ManageDegreeAndCertificate.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\CMSCore\\BLL\\BL_ManageDegreeAndCertificate.cs",
+              "RelativeToolTip": "CMSCore\\BLL\\BL_ManageDegreeAndCertificate.cs",
+              "ViewState": "AgIAAHMEAAAAAAAAAAD4v4MEAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:44:31.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DA_ManageDegreeAndCertificate.cs",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSCore\\DAL\\DA_ManageDegreeAndCertificate.cs",
+              "RelativeDocumentMoniker": "CMSCore\\DAL\\DA_ManageDegreeAndCertificate.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\CMSCore\\DAL\\DA_ManageDegreeAndCertificate.cs",
+              "RelativeToolTip": "CMSCore\\DAL\\DA_ManageDegreeAndCertificate.cs",
+              "ViewState": "AgIAAN8IAAAAAAAAAADwv/IIAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:44:36.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frm_CMS_BaoCaoVanBangChungChi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BaoCaoVanBangChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:32:19.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_CMS_Reports.cs",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\frm_CMS_Reports.cs",
+              "RelativeDocumentMoniker": "CMSReport\\frm_CMS_Reports.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\frm_CMS_Reports.cs",
+              "RelativeToolTip": "CMSReport\\frm_CMS_Reports.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwGsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:13:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_CMS_Reports.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\frm_CMS_Reports.cs",
+              "RelativeDocumentMoniker": "CMSReport\\frm_CMS_Reports.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\frm_CMS_Reports.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\frm_CMS_Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:15:16.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UKH_SoGocCapVanBangCuNhan.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:51:31.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UKH_BaoCaoQuanLyPhoi.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:39:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UKH_BaoCaoNhapPhoi.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.Designer.cs",
+              "ViewState": "AgIAANwCAAAAAAAAAAAAAPMCAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:57:00.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UKH_SoCapBanSao.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:26:29.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UKH_BaoCaoNhapPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:57:12.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UKH_BaoCaoQuanLyPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:39:52.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frm_CMS_AddStudentIntoIssueSession.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAhwI8BAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:17:49.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frm_CMS_AddStudentIntoIssueSession.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_AddStudentIntoIssueSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:54.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frm_CMS_ManageDegreeAndCertificate.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs",
+              "ViewState": "AgIAAF0CAAAAAAAAAAAiwH4CAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:12:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frm_CMS_ManageDegreeAndCertificate.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDegreeAndCertificate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:12:33.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rfrm_CMS_Main.cs",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\UI\\rfrm_CMS_Main.cs",
+              "RelativeDocumentMoniker": "UI\\rfrm_CMS_Main.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\UI\\rfrm_CMS_Main.cs",
+              "RelativeToolTip": "UI\\rfrm_CMS_Main.cs",
+              "ViewState": "AgIAAOYFAAAAAAAAAAAUwPgFAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:32:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rfrm_CMS_Main.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\UI\\rfrm_CMS_Main.cs",
+              "RelativeDocumentMoniker": "UI\\rfrm_CMS_Main.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\rfrm_CMS_Main.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\rfrm_CMS_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:31:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frm_CMS_PhoiVaDotHuyPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:34:15.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwF4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:37:59.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frm_CMS_XacMinhVanBangChungChi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_XacMinhVanBangChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:37:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PhoiVaDotHuyPhoi.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwHAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:58:36.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frm_CMS_DotHuyPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DotHuyPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DotHuyPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DotHuyPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DotHuyPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:00.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAiwLIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:35:17.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frm_CMS_QuanLyCapLaiVBCC.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuanLyCapLaiVBCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:46:20.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frm_CMS_DanhSachCanSuaTTVBCC.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanSuaTTVBCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:35:19.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAUwNcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:39:01.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frm_CMS_QuyetDinhChiTiet.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:12:33.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frm_CMS_IssueSession.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:12.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChiTheoPhoiDaCapSoHieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:09.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frm_CMS_TemplateBatch.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAUwIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:33:48.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frm_CMS_TemplateBatch.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateBatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frm_CMS_IssueSession.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueSession.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAiwKEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frm_CMS_IssueTemplate.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAQwLsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:36:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frm_CMS_QuyetDinhChiTiet.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_QuyetDinhChiTiet.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:12:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frm_CMS_TemplateSession.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:13.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frm_CMS_DegreeAndCertificateType.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:22:33.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frm_CMS_DegreeAndCertificateType.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\SystemConfiguration\\frm_CMS_DegreeAndCertificateType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:22:38.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:38:02.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frm_CMS_IssueTemplate.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_IssueTemplate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:36:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UKH_BaoCaoXuatPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:18:34.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmSoQuyetDinh_ChucVu.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frmSoQuyetDinh_ChucVu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frmSoQuyetDinh_ChucVu.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frmSoQuyetDinh_ChucVu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frmSoQuyetDinh_ChucVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:53:28.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frm_CMS_ThanhPhanThamDu.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:17:54.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frm_CMS_ThanhPhanThamDu.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThanhPhanThamDu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwNUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:20:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frm_CMS_ListDegreeAndCertificate.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAiwHsAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:55:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frm_CMS_ListDegreeAndCertificate.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ListDegreeAndCertificate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:55:33.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frm_CMS_ManageDuplicate.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAiwNgBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:33:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frm_CMS_ManageDuplicate.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageDuplicate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:33:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccessHelper.cs",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSCore\\DAL\\DataAccessHelper.cs",
+              "RelativeDocumentMoniker": "CMSCore\\DAL\\DataAccessHelper.cs",
+              "ToolTip": "D:\\PA\\UIS_CMS_DEV21\\CMSCore\\DAL\\DataAccessHelper.cs",
+              "RelativeToolTip": "CMSCore\\DAL\\DataAccessHelper.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAASwGEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:22:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frm_CMS_InBangChungChi.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_InBangChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:06.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frm_CMS_ImportStudents.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ImportStudents.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ImportStudents.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ImportStudents.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ImportStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:34:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frm_CMS_DuplicateIssueSession.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateIssueSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateIssueSession.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateIssueSession.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateIssueSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frm_CMS_PrintingReport.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PrintingReport.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PrintingReport.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PrintingReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PrintingReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:34:16.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frm_CMS_DuplicateNumber.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateNumber.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateNumber.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateNumber.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DuplicateNumber.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:02.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frm_CMS_PermissionOfUser.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PermissionOfUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PermissionOfUser.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PermissionOfUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_PermissionOfUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:34:13.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frm_CMS_ManageReferenceNumberGeneral.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageReferenceNumberGeneral.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageReferenceNumberGeneral.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageReferenceNumberGeneral.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ManageReferenceNumberGeneral.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:34:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frm_CMS_CancelledReason.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CancelledReason.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CancelledReason.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CancelledReason.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CancelledReason.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:51.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frm_CMS_Design.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Design.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Design.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Design.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Design.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frm_CMS_DesignTemplate.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DesignTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DesignTemplate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DesignTemplate.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DesignTemplate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frm_CMS_CopyDesignTemplate.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CopyDesignTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CopyDesignTemplate.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CopyDesignTemplate.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_CopyDesignTemplate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:48.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frm_CMS_Template.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Template.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Template.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Template.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_Template.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:16.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frm_CMS_TemplateType.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateType.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateType.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_TemplateType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frm_CMS_UpdateStatus.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_UpdateStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_UpdateStatus.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_UpdateStatus.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_UpdateStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:53:29.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frm_CMS_ThongTinNguoiDongDauKyTen.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThongTinNguoiDongDauKyTen.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThongTinNguoiDongDauKyTen.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThongTinNguoiDongDauKyTen.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_ThongTinNguoiDongDauKyTen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:53:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UKH_BaoCaoXuatPhoi.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.Designer.cs",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAqwOQBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:18:23.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UKH_BaoCaoXuatPhoi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoXuatPhoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:18:17.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frm_CMS_DanhSachCanXacMinhVanBangChungChi.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\ManageDegreeAndCertificate\\frm_CMS_DanhSachCanXacMinhVanBangChungChi.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:56:06.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UKH_BaoCaoNhapPhoi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoNhapPhoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:56:52.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UKH_PhuLucSoGoc.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:21:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UKH_BaoCaoQuanLyPhoi.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_BaoCaoQuanLyPhoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:39:43.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BienBanNghiemThuPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\PSC\\BienBanNghiemThuPhoi.cs",
+              "RelativeDocumentMoniker": "CMSReport\\PSC\\BienBanNghiemThuPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\BienBanNghiemThuPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\BienBanNghiemThuPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:12.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BienBanHuyPhoi.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\PSC\\BienBanHuyPhoi.cs",
+              "RelativeDocumentMoniker": "CMSReport\\PSC\\BienBanHuyPhoi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\BienBanHuyPhoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\BienBanHuyPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:10.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoGocCapBanSaoVanBang.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapBanSaoVanBang.cs",
+              "RelativeDocumentMoniker": "CMSReport\\PSC\\SoGocCapBanSaoVanBang.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapBanSaoVanBang.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapBanSaoVanBang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:16.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoGocCapVanBangCuNhan.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapVanBangCuNhan.cs",
+              "RelativeDocumentMoniker": "CMSReport\\PSC\\SoGocCapVanBangCuNhan.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapVanBangCuNhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapVanBangCuNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:18.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XacMinhVanBangChungChi.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\PSC\\XacMinhVanBangChungChi.cs",
+              "RelativeDocumentMoniker": "CMSReport\\PSC\\XacMinhVanBangChungChi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\XacMinhVanBangChungChi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\XacMinhVanBangChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "UKH_SoCapBanSao.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.Designer.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAAAqwBoCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:26:33.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UKH_SoCapBanSao.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoCapBanSao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:26:45.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UKH_PhuLucSoGoc.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:21:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TTQP_PhuLucSoGoc.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_PhuLucSoGoc.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_PhuLucSoGoc.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_PhuLucSoGoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_PhuLucSoGoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:20:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UAH_SoTheoDoiCapBanSao.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoTheoDoiCapBanSao.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoTheoDoiCapBanSao.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoTheoDoiCapBanSao.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoTheoDoiCapBanSao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:20:43.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UKH_PhuLucSoGoc.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_PhuLucSoGoc.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:21:39.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SoGocCapVanBangThacSi.cs [Design]",
+              "DocumentMoniker": "D:\\PA\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapVanBangThacSi.cs",
+              "RelativeDocumentMoniker": "CMSReport\\PSC\\SoGocCapVanBangThacSi.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapVanBangThacSi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\PSC\\SoGocCapVanBangThacSi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:53.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UAH_SoPhuLucVanBang.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoPhuLucVanBang.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoPhuLucVanBang.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoPhuLucVanBang.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoPhuLucVanBang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:00.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UAH_SoGocCapVanBang.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoGocCapVanBang.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoGocCapVanBang.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoGocCapVanBang.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UAH\\UAH_SoGocCapVanBang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:50:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "UKH_SoGocCapVanBangCuNhan.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:51:34.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UKH_SoGocCapVanBangCuNhan.Designer.cs",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.Designer.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.Designer.cs",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\UKH\\UKH_SoGocCapVanBangCuNhan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:51:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "TTQP_SoGocCapChungChiCD.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_SoGocCapChungChiCD.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_SoGocCapChungChiCD.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_SoGocCapChungChiCD.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\TTQP\\TTQP_SoGocCapChungChiCD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:05.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HCMUM_SoGocCapVanBangCuNhan.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoGocCapVanBangCuNhan.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoGocCapVanBangCuNhan.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoGocCapVanBangCuNhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoGocCapVanBangCuNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:50:13.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "HCMUM_SoCapBanSaoVanBangCuNhan.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoCapBanSaoVanBangCuNhan.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoCapBanSaoVanBangCuNhan.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoCapBanSaoVanBangCuNhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\CMSReport\\HCMUE\\HCMUM_SoCapBanSaoVanBangCuNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:50:08.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "frm_CMS_BoLocDuLieu.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BoLocDuLieu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BoLocDuLieu.cs",
+              "ToolTip": "D:\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BoLocDuLieu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Source\\VANBANG\\UIS_CMS_DEV21\\UI\\BaoCaoThongKe\\frm_CMS_BoLocDuLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:31:10.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

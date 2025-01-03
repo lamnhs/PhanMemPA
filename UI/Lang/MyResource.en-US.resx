@@ -1,0 +1,1346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BangDiemCapLai" xml:space="preserve">
+    <value>Duplicate</value>
+    <comment>220</comment>
+  </data>
+  <data name="barButtonItemBaoCaoVanBangChungChi" xml:space="preserve">
+    <value>Report and statistic</value>
+  </data>
+  <data name="barButtonItemChangePassword" xml:space="preserve">
+    <value>Change password</value>
+    <comment>049</comment>
+  </data>
+  <data name="barButtonItemConfigureSystem" xml:space="preserve">
+    <value>Configure system</value>
+    <comment>064</comment>
+  </data>
+  <data name="barButtonItemConfirmReceived" xml:space="preserve">
+    <value>Date of student received degree or certificate</value>
+    <comment>102</comment>
+  </data>
+  <data name="barButtonItemDanhHieuChuanXet" xml:space="preserve">
+    <value>Title and standard audit</value>
+    <comment>232</comment>
+  </data>
+  <data name="barButtonItemDanhMucKhoa" xml:space="preserve">
+    <value>Course</value>
+    <comment>146</comment>
+  </data>
+  <data name="barButtonItemDataField" xml:space="preserve">
+    <value>Data field</value>
+    <comment>075</comment>
+  </data>
+  <data name="barButtonItemDefaultSave" xml:space="preserve">
+    <value>Set default</value>
+    <comment>048</comment>
+  </data>
+  <data name="barButtonItemDegreeAndCertidicateType" xml:space="preserve">
+    <value>Degree and certificate type</value>
+    <comment>055</comment>
+  </data>
+  <data name="barButtonItemDesignTemplate" xml:space="preserve">
+    <value>Design</value>
+    <comment>083</comment>
+  </data>
+  <data name="barButtonItemDetailTemplate" xml:space="preserve">
+    <value>Template detail</value>
+    <comment>082</comment>
+  </data>
+  <data name="barButtonItemDotXacMinhVanBangChungChi" xml:space="preserve">
+    <value>Confirm degree, certificate</value>
+  </data>
+  <data name="barButtonItemDuplicateIssueSession" xml:space="preserve">
+    <value>Duplicate issue session</value>
+    <comment>154</comment>
+  </data>
+  <data name="barButtonItemDuplicateNumber" xml:space="preserve">
+    <value>Duplicate number</value>
+    <comment>153</comment>
+  </data>
+  <data name="barButtonItemGraduationClassification" xml:space="preserve">
+    <value>Graduation classification</value>
+    <comment>139</comment>
+  </data>
+  <data name="barButtonItemGrid" xml:space="preserve">
+    <value>Grid management</value>
+    <comment>051</comment>
+  </data>
+  <data name="barButtonItemGridColumn" xml:space="preserve">
+    <value>Grid column manegement</value>
+    <comment>052</comment>
+  </data>
+  <data name="barButtonItemImportExcel" xml:space="preserve">
+    <value>Import excel</value>
+    <comment>100</comment>
+  </data>
+  <data name="barButtonItemIssueSession" xml:space="preserve">
+    <value>Issue sessions</value>
+    <comment>098</comment>
+  </data>
+  <data name="barButtonItemIssueTemplate" xml:space="preserve">
+    <value>Issue template</value>
+    <comment>107</comment>
+  </data>
+  <data name="barButtonItemLanguage" xml:space="preserve">
+    <value>Language</value>
+    <comment>112</comment>
+  </data>
+  <data name="barButtonItemLogOut" xml:space="preserve">
+    <value>Log out</value>
+    <comment>050</comment>
+  </data>
+  <data name="barButtonItemManageDuplicate" xml:space="preserve">
+    <value>Manage duplicate</value>
+    <comment>155</comment>
+  </data>
+<data name="layoutControlItemSignBy" xml:space="preserve">
+    <value>Sign by</value>
+    <comment>0276</comment>
+  </data>
+<data name="layoutControlItem_diaDanh" xml:space="preserve">
+    <value>Day</value>
+    <comment>0547</comment>
+  </data>
+ <data name="layoutControlItem_thuaLenh" xml:space="preserve">
+    <value>The order</value>
+    <comment>0548</comment>
+  </data>
+  <data name="layoutControlItem_kyThay" xml:space="preserve">
+    <value>Sign instead</value>
+    <comment>0549</comment>
+  </data>
+  <data name="layoutControlItem_capBac" xml:space="preserve">
+    <value>Rank</value>
+    <comment>0550</comment>
+  </data>
+ <data name="layoutControlItem_hieuTruong" xml:space="preserve">
+    <value>Rector</value>
+    <comment>0550</comment>
+  </data>
+  <data name="barButtonItemManageReferenceNumber" xml:space="preserve">
+    <value>Manage reference number</value>
+    <comment>144</comment>
+  </data>
+  <data name="barButtonItemModeOfStudy" xml:space="preserve">
+    <value>Mode of study</value>
+    <comment>142</comment>
+  </data>
+  <data name="barButtonItemNganhTheoKhoa" xml:space="preserve">
+    <value>Ology name by course</value>
+    <comment>145</comment>
+  </data>
+  <data name="barButtonItemNumberOrderSpecialization" xml:space="preserve">
+    <value>Major/specialization number order</value>
+    <comment>143</comment>
+  </data>
+  <data name="barButtonItemObjectSource" xml:space="preserve">
+    <value>Manage object in source</value>
+  </data>
+  <data name="barButtonItemPrintDegreeAndCertificate" xml:space="preserve">
+    <value>Manage degree and certificate</value>
+    <comment>101</comment>
+  </data>
+ <data name="barButtonItemQuanLyCapLaiVBCC" xml:space="preserve">
+    <value>Manage re-issuance of diplomas and certificates</value>
+    <comment>101</comment>
+  </data>
+  <data name="barButtonItemPrintTemplateSession" xml:space="preserve">
+    <value>Template session</value>
+    <comment>080</comment>
+  </data>
+  <data name="barButtonItemProgram" xml:space="preserve">
+    <value>Program</value>
+    <comment>079</comment>
+  </data>
+  <data name="barButtonItemQualityStandard" xml:space="preserve">
+    <value>Quality standard</value>
+    <comment>113</comment>
+  </data>
+  <data name="barButtonItemQuyetDinh" xml:space="preserve">
+    <value>Decision file</value>
+  </data>
+  <data name="barButtonItemReport" xml:space="preserve">
+    <value>Report</value>
+    <comment>140</comment>
+  </data>
+  <data name="barButtonItemReportAndStatisticType" xml:space="preserve">
+    <value>Report and statistic type</value>
+    <comment>053</comment>
+  </data>
+  <data name="barButtonItemSemester" xml:space="preserve">
+    <value>Semester</value>
+    <comment>138</comment>
+  </data>
+  <data name="barButtonItemStudentAndIssueSession" xml:space="preserve">
+    <value>Add student into issue session</value>
+    <comment>099</comment>
+  </data>
+  <data name="barButtonItemStudentReceiveDegreeAndCertificate" xml:space="preserve">
+    <value>Student receive degree or certificate</value>
+    <comment>103</comment>
+  </data>
+  <data name="barButtonItemTemplateBatch" xml:space="preserve">
+    <value>Template batch</value>
+    <comment>081</comment>
+  </data>
+  <data name="barButtonItemTemplateType" xml:space="preserve">
+    <value>Template type</value>
+    <comment>076</comment>
+  </data>
+  <data name="barButtonItemThongKeBieuDo" xml:space="preserve">
+    <value>Statistic, chart</value>
+  </data>
+  <data name="barButtonItemTitle" xml:space="preserve">
+    <value>Title</value>
+    <comment>078</comment>
+  </data>
+  <data name="barButtonItemUserPermission" xml:space="preserve">
+    <value>Permission of user</value>
+    <comment>054</comment>
+  </data>
+  <data name="barButtonItemVanBang" xml:space="preserve">
+    <value>Degree file</value>
+  </data>
+  <data name="barButtonItemViewObject" xml:space="preserve">
+    <value>View object</value>
+  </data>
+  <data name="barButtonItem_ImportDSCapBanSao" xml:space="preserve">
+    <value>Import duplacate list</value>
+    <comment>222</comment>
+  </data>
+  <data name="barSubItemUploadFile" xml:space="preserve">
+    <value>Config upload file</value>
+  </data>
+  <data name="BoQuaPhoiChuaIn" xml:space="preserve">
+    <value>Not print. Do you continue ?</value>
+  </data>
+  <data name="btnAccepted" xml:space="preserve">
+    <value>Accepted</value>
+  </data>
+  <data name="btnAddList" xml:space="preserve">
+    <value>Insert</value>
+    <comment>162</comment>
+  </data>
+  <data name="btnAgree" xml:space="preserve">
+    <value>Agree</value>
+    <comment>042</comment>
+  </data>
+  <data name="btnBoLocDuLieu" xml:space="preserve">
+    <value>Filter Editor</value>
+  </data>
+<data name="BoLocDuLieu" xml:space="preserve">
+    <value>Filter Editor</value>
+  </data>
+  <data name="btnCancelAccepted" xml:space="preserve">
+    <value>Cancel accepted</value>
+  </data>
+  <data name="btnCancelConfirm" xml:space="preserve">
+    <value>Cancel confirm</value>
+    <comment>119</comment>
+  </data>
+  <data name="btnCancelIsPrinted" xml:space="preserve">
+    <value>Cancel printed</value>
+    <comment>188</comment>
+  </data>
+  <data name="btnCancelReferenceNumber" xml:space="preserve">
+    <value>Cancel reference number</value>
+    <comment>124</comment>
+  </data>
+  <data name="btnCancelTemplate" xml:space="preserve">
+    <value>Cancel Template</value>
+    <comment>187</comment>
+  </data>
+  <data name="btnCapNhatTinhTrangPhoi" xml:space="preserve">
+    <value>Template status</value>
+    <comment>226</comment>
+  </data>
+  <data name="btnClose" xml:space="preserve">
+    <value>Close</value>
+    <comment>057</comment>
+  </data>
+  <data name="btnConfirm" xml:space="preserve">
+    <value>Confirm</value>
+    <comment>065</comment>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>Delete</value>
+    <comment>044</comment>
+  </data>
+  <data name="btnDeleteAdvanceProgramed" xml:space="preserve">
+    <value>Cancel Academic advance program</value>
+    <comment>117</comment>
+  </data>
+  <data name="btnDeleteList" xml:space="preserve">
+    <value>Remove</value>
+    <comment>164</comment>
+  </data>
+  <data name="btnFilter" xml:space="preserve">
+    <value>Filter data</value>
+    <comment>045</comment>
+  </data>
+  <data name="btnGetData" xml:space="preserve">
+    <value>Print degree or certificate (Single)</value>
+    <comment>121</comment>
+  </data>
+  <data name="btnIssueReferenceNumber" xml:space="preserve">
+    <value>Issue reference number</value>
+    <comment>125</comment>
+  </data>
+  <data name="btnIssueSerialNumber" xml:space="preserve">
+    <value>Issue serial number for Degree and certificate</value>
+    <comment>185</comment>
+  </data>
+  <data name="btnKiemTraVanBangChungChi" xml:space="preserve">
+    <value>Check data</value>
+  </data>
+  <data name="btnLock" xml:space="preserve">
+    <value>Lock data</value>
+    <comment>229</comment>
+  </data>
+  <data name="btnPreview" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+  <data name="btnPrintAll" xml:space="preserve">
+    <value>Print degree or certificate (Multi)</value>
+  </data>
+  <data name="btnPrintData" xml:space="preserve">
+    <value>Print</value>
+    <comment>126</comment>
+  </data>
+  <data name="btnPrintDuplicate" xml:space="preserve">
+    <value>Print duplicate</value>
+    <comment>160</comment>
+  </data>
+  <data name="btnReadSource" xml:space="preserve">
+    <value>Read object</value>
+  </data>
+  <data name="btnRegist" xml:space="preserve">
+    <value>Regist</value>
+  </data>
+  <data name="btnRevoke" xml:space="preserve">
+    <value>Revoke serial number</value>
+    <comment>186</comment>
+  </data>
+  <data name="btnSave" xml:space="preserve">
+    <value>Save</value>
+    <comment>043</comment>
+  </data>
+  <data name="btnSaveAndClose" xml:space="preserve">
+    <value>Save and close</value>
+    <comment>068</comment>
+  </data>
+  <data name="btnSearch" xml:space="preserve">
+    <value>Search on website</value>
+    <comment>122</comment>
+  </data>
+  <data name="btnSetAdvanceProgramed" xml:space="preserve">
+    <value>Advance programed</value>
+    <comment>116</comment>
+  </data>
+<data name="btnOK" xml:space="preserve">
+    <value>OK</value>
+    <comment>0208</comment>
+  </data>
+  <data name="btnSynch" xml:space="preserve">
+    <value>Synchronize</value>
+    <comment>109</comment>
+  </data>
+  <data name="btnThuHoiPhoi" xml:space="preserve">
+    <value>Revoke</value>
+  </data>
+  <data name="btnUnlock" xml:space="preserve">
+    <value>Unlock dat</value>
+    <comment>230</comment>
+  </data>
+  <data name="btn_CapNhat" xml:space="preserve">
+    <value>Update</value>
+    <comment>216</comment>
+  </data>
+  <data name="btn_CapNhatCTTaiNang" xml:space="preserve">
+    <value>Talent subject</value>
+    <comment>180</comment>
+  </data>
+  <data name="btn_DanhSachSinhVienDangKyLeTotNghiep" xml:space="preserve">
+    <value>List of student registerd to attend graduation</value>
+    <comment>176</comment>
+  </data>
+  <data name="btn_DotDangKyLeTotNghiep" xml:space="preserve">
+    <value>Graduation attending registration session</value>
+    <comment>174</comment>
+  </data>
+  <data name="btn_DotDangKyLeTotNghiepChiTiet" xml:space="preserve">
+    <value>Graduation attending registration session detail</value>
+    <comment>175</comment>
+  </data>
+  <data name="btn_DotHuyPhoi" xml:space="preserve">
+    <value>Cancel template session</value>
+    <comment>223</comment>
+  </data>
+  <data name="btn_DotNhanBangOnline" xml:space="preserve">
+    <value>Diploma delivery session</value>
+    <comment>168</comment>
+  </data>
+  <data name="btn_DotNhanBangOnLineChiTiet" xml:space="preserve">
+    <value>Diploma delivery session detail</value>
+    <comment>169</comment>
+  </data>
+  <data name="btn_HuyCTTaiNang" xml:space="preserve">
+    <value>Cancel talent subject</value>
+    <comment>181</comment>
+  </data>
+  <data name="btn_PhoiVaDotHuyPhoi" xml:space="preserve">
+    <value>Template and cancel template session</value>
+    <comment>224</comment>
+  </data>
+  <data name="btn_TuDienDuLieu" xml:space="preserve">
+    <value>Data dictionry</value>
+    <comment>166</comment>
+  </data>
+  <data name="btn_XacNhanNhanBangOnline" xml:space="preserve">
+    <value>Confirm diploma received</value>
+    <comment>170</comment>
+  </data>
+  <data name="butCauHinhUpLoad" xml:space="preserve">
+    <value>Appendix file </value>
+    <comment>207</comment>
+  </data>
+  <data name="butPhanQuyenLoaiPhoi" xml:space="preserve">
+    <value>Permission</value>
+    <comment>206</comment>
+  </data>
+  <data name="CapSoVaoSo?" xml:space="preserve">
+    <value>Issue reference number ?</value>
+  </data>
+  <data name="checkEditModeOfStudy" xml:space="preserve">
+    <value>Mode of Study</value>
+    <comment>179</comment>
+  </data>
+  <data name="checkEditReferenceNumberDecrease" xml:space="preserve">
+    <value>Decrease</value>
+    <comment>136</comment>
+  </data>
+  <data name="checkEditYearGraduation" xml:space="preserve">
+    <value>Graduation year</value>
+    <comment>183</comment>
+  </data>
+  <data name="checkEdit_MaKhoaHoc" xml:space="preserve">
+    <value>Course ID</value>
+    <comment>131</comment>
+  </data>
+  <data name="checkEdit_maLop" xml:space="preserve">
+    <value>Class ID</value>
+    <comment>132</comment>
+  </data>
+  <data name="checkEdit_maSV_maHV" xml:space="preserve">
+    <value>Student ID</value>
+    <comment>130</comment>
+  </data>
+  <data name="checkEdit_TraCuuKhongCanIn" xml:space="preserve">
+    <value>Allow search not print</value>
+  </data>
+  <data name="ChonTatCa" xml:space="preserve">
+    <value>(Select All)</value>
+    <comment>056</comment>
+  </data>
+  <data name="ChuaNhapLyDo" xml:space="preserve">
+    <value>Property reason was not set.</value>
+    <comment>094</comment>
+  </data>
+  <data name="ChuaNhapTenDangNhap" xml:space="preserve">
+    <value>Please enter username</value>
+    <comment>019</comment>
+  </data>
+  <data name="ChuNhat" xml:space="preserve">
+    <value>Sunday</value>
+    <comment>028</comment>
+  </data>
+  <data name="ClassName" xml:space="preserve">
+    <value>Class</value>
+  </data>
+  <data name="cmsRibbonPageCertificateManagement" xml:space="preserve">
+    <value>Manage degree and certificate</value>
+    <comment>077</comment>
+  </data>
+  <data name="cmsRibbonPageExtModule" xml:space="preserve">
+    <value>Extension</value>
+    <comment>110</comment>
+  </data>
+  <data name="cmsRibbonPageGroupDataDictionary" xml:space="preserve">
+    <value>Data dictionary</value>
+    <comment>047</comment>
+  </data>
+  <data name="cmsRibbonPageGroupExtModule" xml:space="preserve">
+    <value>Extension</value>
+    <comment>111</comment>
+  </data>
+  <data name="cmsRibbonPageGroupManageDegreeAndCertificate" xml:space="preserve">
+    <value>Manage degree and certificate</value>
+    <comment>108</comment>
+  </data>
+  <data name="cmsRibbonPageGroupPermission" xml:space="preserve">
+    <value>Permission</value>
+    <comment>046</comment>
+  </data>
+  <data name="cmsRibbonPageGroupSystem" xml:space="preserve">
+    <value>System</value>
+    <comment>006</comment>
+  </data>
+  <data name="cmsRibbonPageGroupTemplateManagement" xml:space="preserve">
+    <value>Manage template</value>
+    <comment>085</comment>
+  </data>
+  <data name="cmsRibbonPageSystem" xml:space="preserve">
+    <value>System</value>
+    <comment>005</comment>
+  </data>
+  <data name="cmsRibbonPage_InAnBaoCaoThongKe" xml:space="preserve">
+    <value>Report and statistical</value>
+    <comment>177</comment>
+  </data>
+  <data name="cmsRibbonPage_SinhVienDangKyLeTotNghiep" xml:space="preserve">
+    <value>Student registerd to attend graduation</value>
+    <comment>177</comment>
+  </data>
+  <data name="CourseName" xml:space="preserve">
+    <value>Term</value>
+  </data>
+  <data name="DaCapSoHieu" xml:space="preserve">
+    <value>Had been issued serial number</value>
+  </data>
+  <data name="DaCapSoVaoSo" xml:space="preserve">
+    <value>Student had been issued reference number</value>
+  </data>
+  <data name="DaDuyet" xml:space="preserve">
+    <value>Accepted</value>
+  </data>
+  <data name="DaIn" xml:space="preserve">
+    <value>PRINTED</value>
+    <comment>205</comment>
+  </data>
+  <data name="DaInHoacTraCuu" xml:space="preserve">
+    <value>Had been printed or had been search</value>
+  </data>
+  <data name="DaInVanBangChungChi" xml:space="preserve">
+    <value>Had been printed</value>
+  </data>
+  <data name="DangNhap" xml:space="preserve">
+    <value>Login</value>
+    <comment>012</comment>
+  </data>
+  <data name="DangXuLy" xml:space="preserve">
+    <value>Process...</value>
+    <comment>017</comment>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>Data</value>
+    <comment>165</comment>
+  </data>
+  <data name="DataLocked" xml:space="preserve">
+    <value>Data locked, can not update</value>
+    <comment>231</comment>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>Data type</value>
+  </data>
+  <data name="DateOfSign" xml:space="preserve">
+    <value>Date of sign</value>
+  </data>
+  <data name="DaTraCuuVanBangChungChi" xml:space="preserve">
+    <value>Please cancel search property of template</value>
+    <comment>095</comment>
+  </data>
+  <data name="DaXacNhan" xml:space="preserve">
+    <value>Had been confirmed</value>
+  </data>
+  <data name="DegreeAndCertificateType" xml:space="preserve">
+    <value>Degree and certificate type</value>
+    <comment>084</comment>
+  </data>
+  <data name="DepartmentName" xml:space="preserve">
+    <value>Management unit</value>
+  </data>
+  <data name="DienGiai" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="dockPanelPrintTemplate" xml:space="preserve">
+    <value>Degree, certificate, Issue serial number</value>
+    <comment>184</comment>
+  </data>
+  <data name="dockPanelReferenceNumber" xml:space="preserve">
+    <value>Reference number</value>
+    <comment>127</comment>
+  </data>
+  <data name="dockPanelReportType" xml:space="preserve">
+    <value>Report and statistic type</value>
+  </data>
+  <data name="DoiHocKyHienTai" xml:space="preserve">
+    <value>UIS - Change academic semester</value>
+    <comment>041</comment>
+  </data>
+  <data name="DoiMatKhau" xml:space="preserve">
+    <value>UIS - Change password</value>
+    <comment>038</comment>
+  </data>
+  <data name="DongCuaSoKhac" xml:space="preserve">
+    <value>Close other windows</value>
+    <comment>008</comment>
+  </data>
+  <data name="DongCuaSoNay" xml:space="preserve">
+    <value>Close this</value>
+    <comment>009</comment>
+  </data>
+  <data name="DongTatCa" xml:space="preserve">
+    <value>Close all</value>
+    <comment>007</comment>
+  </data>
+  <data name="DonViQuanLy" xml:space="preserve">
+    <value>Managing unit</value>
+    <comment>066</comment>
+  </data>
+  <data name="DotDangKyLeTotNghiep" xml:space="preserve">
+    <value>Graduation session</value>
+  </data>
+  <data name="DuplicateIssueSessionName" xml:space="preserve">
+    <value>Duplicate issue session</value>
+  </data>
+  <data name="ExportExcel" xml:space="preserve">
+    <value>Export excel</value>
+    <comment>069</comment>
+  </data>
+  <data name="frm_CMS_CancelledReason" xml:space="preserve">
+    <value>UIS - Cancelled reason</value>
+    <comment>093</comment>
+  </data>
+  <data name="frm_CMS_ConfirmStudentInIssueSession" xml:space="preserve">
+    <value>UIS - Confirm student need issue degree or certificate</value>
+    <comment>118</comment>
+  </data>
+  <data name="frm_CMS_CopyDesignTemplate" xml:space="preserve">
+    <value>UIS - Copy design</value>
+    <comment>096</comment>
+  </data>
+  <data name="frm_CMS_DangKyDuLeTotNghiep" xml:space="preserve">
+    <value>UIS - Regist graduation</value>
+  </data>
+  <data name="frm_CMS_DanhSachCanXacMinhVanBangChungChi" xml:space="preserve">
+    <value>UIS - List have to check degree and certificate</value>
+  </data>
+  <data name="frm_CMS_Design" xml:space="preserve">
+    <value>UIS - Design</value>
+    <comment>097</comment>
+  </data>
+  <data name="frm_CMS_ImportDSCapBanSao" xml:space="preserve">
+    <value>Import duplicate list</value>
+    <comment>221</comment>
+  </data>
+  <data name="frm_CMS_ImportExcel" xml:space="preserve">
+    <value>UIS - Choose file</value>
+  </data>
+  <data name="frm_CMS_IssueSessionTemplate" xml:space="preserve">
+    <value>UIS - Template detail</value>
+    <comment>182</comment>
+  </data>
+  <data name="frm_CMS_ManageDuplicate" xml:space="preserve">
+    <value>UIS - List of students</value>
+    <comment>163</comment>
+  </data>
+  <data name="frm_CMS_QuyetDinhChiTiet" xml:space="preserve">
+    <value>UIS - File detail</value>
+  </data>
+<data name="frm_CMS_ThanhPhanThamDu" xml:space="preserve">
+    <value>UIS - Participants detail</value>
+  </data>
+  <data name="frm_CMS_SinhVienDotNhanBangOnline" xml:space="preserve">
+    <value>UIS - Student and diploma delivery session</value>
+    <comment>189</comment>
+  </data>
+  <data name="frm_CMS_UpdateStatus" xml:space="preserve">
+    <value>UIS - Update template status</value>
+  </data>
+  <data name="FromYear" xml:space="preserve">
+    <value>From year</value>
+  </data>
+  <data name="GhiChu" xml:space="preserve">
+    <value>Note</value>
+    <comment>151</comment>
+  </data>
+  <data name="GraduateLevelName" xml:space="preserve">
+    <value>Academic level</value>
+    <comment>030</comment>
+  </data>
+  <data name="GridID" xml:space="preserve">
+    <value>Grid ID</value>
+  </data>
+  <data name="GridName" xml:space="preserve">
+    <value>Grid name</value>
+  </data>
+  <data name="GroupPanelText" xml:space="preserve">
+    <value>Drap a column header here to group by that column</value>
+  </data>
+  <data name="HayHuyDeCapLai" xml:space="preserve">
+    <value>You have to cancel reference number to issue again</value>
+  </data>
+  <data name="HoiLaiKhiLuu" xml:space="preserve">
+    <value>Confirm to save data</value>
+    <comment>058</comment>
+  </data>
+  <data name="HoiLaiKhiXoa" xml:space="preserve">
+    <value>Confirm to delete data</value>
+    <comment>060</comment>
+  </data>
+  <data name="HoTen" xml:space="preserve">
+    <value>Student Name</value>
+    <comment>201</comment>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+    <comment>074</comment>
+  </data>
+  <data name="ImportExcel" xml:space="preserve">
+    <value>Import Excel</value>
+    <comment>147</comment>
+  </data>
+  <data name="InBangChungChi" xml:space="preserve">
+    <value>Get data print degree or certificate</value>
+    <comment>204</comment>
+  </data>
+  <data name="IssueSessionID" xml:space="preserve">
+    <value>Issue session ID</value>
+    <comment>150</comment>
+  </data>
+  <data name="IssueSessionName" xml:space="preserve">
+    <value>Issue session</value>
+  </data>
+  <data name="IssueTemplate?" xml:space="preserve">
+    <value>Issue template ?</value>
+    <comment>120</comment>
+  </data>
+  <data name="KhoaTaiKhoan" xml:space="preserve">
+    <value>This account has been locked.</value>
+    <comment>014</comment>
+  </data>
+  <data name="KhongCoDuLieu" xml:space="preserve">
+    <value>No data</value>
+  </data>
+  <data name="KhongCoNhom" xml:space="preserve">
+    <value>This user is not in the user group yet.</value>
+    <comment>015</comment>
+  </data>
+  <data name="KhongDuSoVaoSo" xml:space="preserve">
+    <value>Not enough number</value>
+  </data>
+  <data name="KhongKhopXacNhanMatKhau" xml:space="preserve">
+    <value>The password and confirm password fields do not match</value>
+    <comment>039</comment>
+  </data>
+  <data name="KhongThanhCong" xml:space="preserve">
+    <value>Unsuccessful</value>
+    <comment>032</comment>
+  </data>
+ <data name="LyDoRequired" xml:space="preserve">
+    <value>Please enter a reason</value>
+    <comment>032</comment>
+  </data>
+  <data name="KhongTheKetNoi" xml:space="preserve">
+    <value>Cannot connect to server.</value>
+    <comment>018</comment>
+  </data>
+  <data name="labelControlQRCode" xml:space="preserve">
+    <value>QR Code: (1) Student ID - (2) Random</value>
+  </data>
+  <data name="labelDangTaoBieuMau" xml:space="preserve">
+    <value>Process...</value>
+  </data>
+  <data name="labelMauInDaTaoXong" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="layoutControlItemAcademicLevel" xml:space="preserve">
+    <value>Academic level</value>
+    <comment>086</comment>
+  </data>
+  <data name="layoutControlItemAuditType" xml:space="preserve">
+    <value>Audit type</value>
+  </data>
+  <data name="layoutControlItemChuongTrinhNNA" xml:space="preserve">
+    <value>Chương trình ngôn ngữ anh</value>
+    <comment>217</comment>
+  </data>
+  <data name="layoutControlItemCourse" xml:space="preserve">
+    <value>Course</value>
+    <comment>088</comment>
+  </data>
+  <data name="layoutControlItemDecision" xml:space="preserve">
+    <value>Decision</value>
+    <comment>105</comment>
+  </data>
+  <data name="layoutControlItemDesignTemplate" xml:space="preserve">
+    <value>Specimen</value>
+    <comment>137</comment>
+  </data>
+  <data name="layoutControlItemDinhDangNgay" xml:space="preserve">
+    <value>Format date</value>
+  </data>
+  <data name="layoutControlItemDinhDangNgayKy" xml:space="preserve">
+    <value>Format date of sign</value>
+  </data>
+  <data name="layoutControlItemDinhDangNgayTiengAnh" xml:space="preserve">
+    <value>Format date (English)</value>
+  </data>
+  <data name="layoutControlItemDotDangKyLeTotNghiep" xml:space="preserve">
+    <value>Registration session</value>
+    <comment>173</comment>
+  </data>
+  <data name="layoutControlItemDotDangKyLeTotNghiepChiTiet" xml:space="preserve">
+    <value>Graduation attending registration session detail</value>
+    <comment>178</comment>
+  </data>
+  <data name="layoutControlItemDotHuyPhoi" xml:space="preserve">
+    <value>Cancel template session</value>
+    <comment>225</comment>
+  </data>
+  <data name="layoutControlItemDotNhanBang" xml:space="preserve">
+    <value>Diploma delivery session</value>
+    <comment>167</comment>
+  </data>
+  <data name="layoutControlItemDotNhanBangChiTiet" xml:space="preserve">
+    <value>diploma delivery session detail</value>
+    <comment>172</comment>
+  </data>
+  <data name="layoutControlItemDuplicateLetterReferenceNumber" xml:space="preserve">
+    <value>{1} Letter reference number</value>
+    <comment>157</comment>
+  </data>
+  <data name="layoutControlItemDuplicateReferenceNumber" xml:space="preserve">
+    <value>{2} Reference number</value>
+    <comment>158</comment>
+  </data>
+  <data name="layoutControlItemDuplicateSession" xml:space="preserve">
+    <value>Duplicate issue session</value>
+    <comment>159</comment>
+  </data>
+  <data name="layoutControlItemFolder" xml:space="preserve">
+    <value>Folder:</value>
+  </data>
+  <data name="layoutControlItemForm" xml:space="preserve">
+    <value>Form</value>
+  </data>
+  <data name="layoutControlItemGrids" xml:space="preserve">
+    <value>Grid</value>
+    <comment>070</comment>
+  </data>
+  <data name="layoutControlItemIssueSession" xml:space="preserve">
+    <value>Issue session</value>
+    <comment>106</comment>
+  </data>
+  <data name="layoutControlItemLanguage" xml:space="preserve">
+    <value>Language of training</value>
+    <comment>114</comment>
+  </data>
+  <data name="layoutControlItemLetterReferenceNumber" xml:space="preserve">
+    <value>{3} Letter reference number</value>
+    <comment>135</comment>
+  </data>
+  <data name="layoutControlItemModeOfStudy" xml:space="preserve">
+    <value>Mode of study</value>
+    <comment>087</comment>
+  </data>
+  <data name="layoutControlItemNumberCopy" xml:space="preserve">
+    <value>Number copy</value>
+    <comment>161</comment>
+  </data>
+  <data name="layoutControlItemPassword" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="layoutControlItemProvider" xml:space="preserve">
+    <value>Domain:</value>
+  </data>
+  <data name="layoutControlItemQualityStandard" xml:space="preserve">
+    <value>Quality standard</value>
+    <comment>115</comment>
+  </data>
+  <data name="layoutControlItemReason" xml:space="preserve">
+    <value>Reason</value>
+    <comment>227</comment>
+  </data>
+  <data name="layoutControlItemReferenceNumber" xml:space="preserve">
+    <value>{4} Reference number</value>
+    <comment>134</comment>
+  </data>
+  <data name="layoutControlItemSeparatorChar" xml:space="preserve">
+    <value>{2} Separator char</value>
+    <comment>133</comment>
+  </data>
+  <data name="layoutControlItemServerName" xml:space="preserve">
+    <value>Server name:</value>
+  </data>
+  <data name="layoutControlItemStatus" xml:space="preserve">
+    <value>Tình trạng</value>
+    <comment>228</comment>
+  </data>
+  <data name="layoutControlItemStudent" xml:space="preserve">
+    <value>Student</value>
+  </data>
+  <data name="layoutControlItemTemplateBatch" xml:space="preserve">
+    <value>Template batch</value>
+    <comment>091</comment>
+  </data>
+  <data name="layoutControlItemTemplateSession" xml:space="preserve">
+    <value>Template session</value>
+    <comment>090</comment>
+  </data>
+  <data name="layoutControlItemTemplateType" xml:space="preserve">
+    <value>Template type</value>
+    <comment>071</comment>
+  </data>
+  <data name="layoutControlItemTemplateTypeDC" xml:space="preserve">
+    <value>Degree or certificate type</value>
+    <comment>104</comment>
+  </data>
+  <data name="layoutControlItemTerm" xml:space="preserve">
+    <value>Term</value>
+  </data>
+  <data name="layoutControlItemTitle" xml:space="preserve">
+    <value>Title</value>
+    <comment>089</comment>
+  </data>
+  <data name="layoutControlItemUserName" xml:space="preserve">
+    <value>User name:</value>
+  </data>
+  <data name="layoutControlItem_DotNhanBangChiTiet" xml:space="preserve">
+    <value>Diploma delivery session detail</value>
+    <comment>190</comment>
+  </data>
+  <data name="LienHeQuanTri" xml:space="preserve">
+    <value>Please contact administrator for details.</value>
+    <comment>016</comment>
+  </data>
+  <data name="LoPhoiDaSuDung" xml:space="preserve">
+    <value>Is used</value>
+    <comment>092</comment>
+  </data>
+  <data name="LuuDuLieu?" xml:space="preserve">
+    <value>Save data ?</value>
+    <comment>062</comment>
+  </data>
+  <data name="MaDotCap" xml:space="preserve">
+    <value>Issue session ID</value>
+  </data>
+  <data name="MaSoKhongDungDinhDang" xml:space="preserve">
+    <value>Error format number</value>
+  </data>
+  <data name="MatKhau" xml:space="preserve">
+    <value>Password</value>
+    <comment>011</comment>
+  </data>
+  <data name="MatKhauCu" xml:space="preserve">
+    <value>Old password</value>
+    <comment>036</comment>
+  </data>
+  <data name="mnuImportDotCap" xml:space="preserve">
+    <value>Import issue session</value>
+  </data>
+  <data name="mnuXuatDanhSachDotCap" xml:space="preserve">
+    <value>Export excel issue session</value>
+  </data>
+  <data name="mnu_CapNhatCCNN" xml:space="preserve">
+    <value>Update language certificate type</value>
+    <comment>218</comment>
+  </data>
+  <data name="mnu_CapNhatCNTT" xml:space="preserve">
+    <value>Update Print IT Certificate</value>
+    <comment>210</comment>
+  </data>
+  <data name="mnu_CapNhatGDQP" xml:space="preserve">
+    <value>Update Print Defense Certificate</value>
+    <comment>214</comment>
+  </data>
+  <data name="mnu_CapNhatGDTC" xml:space="preserve">
+    <value>Update Print Physical Certificate</value>
+    <comment>212</comment>
+  </data>
+  <data name="mnu_DanhSachCapBangQD121" xml:space="preserve">
+    <value>Excel Student list (Ministry Template)</value>
+    <comment>208</comment>
+  </data>
+  <data name="mnu_HuyCCNN" xml:space="preserve">
+    <value>Cancel language certificate type</value>
+    <comment>219</comment>
+  </data>
+  <data name="mnu_HuyCNTT" xml:space="preserve">
+    <value>Delete Print IT Certificate</value>
+    <comment>211</comment>
+  </data>
+  <data name="mnu_HuyGDQP" xml:space="preserve">
+    <value>Delete Print Defense Certificate</value>
+    <comment>215</comment>
+  </data>
+  <data name="mnu_HuyGDTC" xml:space="preserve">
+    <value>Delete Print Physical Certificate</value>
+    <comment>213</comment>
+  </data>
+  <data name="mnu_HuyTraCuu" xml:space="preserve">
+    <value>Cancel search</value>
+    <comment>128</comment>
+  </data>
+  <data name="mnu_TraCuu" xml:space="preserve">
+    <value>Allow search</value>
+    <comment>129</comment>
+  </data>
+  <data name="mnu_TraCuuXacNhanVanBangTheoFile" xml:space="preserve">
+    <value>Search by excel file</value>
+    <comment>233</comment>
+  </data>
+  <data name="NamHocHocKy" xml:space="preserve">
+    <value>Semester</value>
+  </data>
+  <data name="Nganh" xml:space="preserve">
+    <value>Major</value>
+    <comment>199</comment>
+  </data>
+  <data name="NgayHienTai" xml:space="preserve">
+    <value>Today</value>
+    <comment>029</comment>
+  </data>
+  <data name="NgayIn" xml:space="preserve">
+    <value>Print Date</value>
+    <comment>198</comment>
+  </data>
+  <data name="NgayKy" xml:space="preserve">
+    <value>Date of sign</value>
+    <comment>148</comment>
+  </data>
+  <data name="NgaySinh" xml:space="preserve">
+    <value>Date of birth</value>
+    <comment>200</comment>
+  </data>
+  <data name="NguoiKy" xml:space="preserve">
+    <value>Sign by</value>
+    <comment>149</comment>
+  </data>
+  <data name="OlogyName" xml:space="preserve">
+    <value>Major\Specialized</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="PhoiDaCap" xml:space="preserve">
+    <value>Template had been issue</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>Report</value>
+    <comment>141</comment>
+  </data>
+  <data name="rfrm_CMS_Main" xml:space="preserve">
+    <value>PSC UIS - CMS</value>
+    <comment>003</comment>
+  </data>
+  <data name="ribbonControl" xml:space="preserve">
+    <value>RIBBON CMS</value>
+    <comment>004</comment>
+  </data>
+  <data name="ribbonPageGroupBaoCaoThongKe" xml:space="preserve">
+    <value>Report and statistical</value>
+  </data>
+  <data name="ribbonPageGroupDuplicateTemplate" xml:space="preserve">
+    <value>Duplicate</value>
+    <comment>152</comment>
+  </data>
+  <data name="ribbonPageGroupSearch" xml:space="preserve">
+    <value>Search</value>
+    <comment>156</comment>
+  </data>
+  <data name="ribbonPageGroup_SinhVienDangKyLeTotNghiep" xml:space="preserve">
+    <value>Graduation</value>
+  </data>
+  <data name="SaiMatKhau" xml:space="preserve">
+    <value>Password is incorrect</value>
+  </data>
+  <data name="SaiMatKhauCu" xml:space="preserve">
+    <value>Old password is incorrect</value>
+    <comment>040</comment>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SignBy" xml:space="preserve">
+    <value>Sign by</value>
+  </data>
+  <data name="skinRibbonGalleryBarItemInterfate" xml:space="preserve">
+    <value>Template</value>
+  </data>
+  <data name="SoHieu" xml:space="preserve">
+    <value>Serial number</value>
+    <comment>196</comment>
+  </data>
+  <data name="SoLuongPhoiHuy" xml:space="preserve">
+    <value>Number of cancel template</value>
+  </data>
+  <data name="SoLuongSinhVienCon" xml:space="preserve">
+    <value>The remaining amount</value>
+    <comment>194</comment>
+  </data>
+  <data name="SoVaoSo" xml:space="preserve">
+    <value>Reference number</value>
+    <comment>197</comment>
+  </data>
+  <data name="StatusName" xml:space="preserve">
+    <value>Status name</value>
+  </data>
+  <data name="StudentID" xml:space="preserve">
+    <value>Student ID</value>
+  </data>
+  <data name="StudentName" xml:space="preserve">
+    <value>Student name</value>
+  </data>
+  <data name="StudyProgramName" xml:space="preserve">
+    <value>Program</value>
+  </data>
+  <data name="StudyStatusName" xml:space="preserve">
+    <value>Study status</value>
+  </data>
+  <data name="StudyTypeName" xml:space="preserve">
+    <value>Mode of study</value>
+    <comment>031</comment>
+  </data>
+  <data name="TatCaCacDotCap" xml:space="preserve">
+    <value>Is all issue session.</value>
+  </data>
+  <data name="TemplateTypeName" xml:space="preserve">
+    <value>Degree or certificate type</value>
+  </data>
+  <data name="TenDangNhap" xml:space="preserve">
+    <value>User name</value>
+    <comment>010</comment>
+  </data>
+  <data name="TenTruong" xml:space="preserve">
+    <value>Unit name</value>
+    <comment>067</comment>
+  </data>
+  <data name="Term" xml:space="preserve">
+    <value>Academic semester</value>
+    <comment>021</comment>
+  </data>
+  <data name="ThanhCong" xml:space="preserve">
+    <value>Successful</value>
+    <comment>033</comment>
+  </data>
+  <data name="ThoatUngDung" xml:space="preserve">
+    <value>Exit</value>
+    <comment>013</comment>
+  </data>
+  <data name="THONGTINPHOISEIN" xml:space="preserve">
+    <value>TEMPLATE INFORMATION</value>
+    <comment>191</comment>
+  </data>
+  <data name="ThongTinTiengAnh" xml:space="preserve">
+    <value>English information</value>
+    <comment>192</comment>
+  </data>
+  <data name="ThongTinTiengViet" xml:space="preserve">
+    <value>Vietnamese information</value>
+    <comment>193</comment>
+  </data>
+  <data name="ThuBa" xml:space="preserve">
+    <value>Tuesday</value>
+    <comment>023</comment>
+  </data>
+  <data name="ThuBay" xml:space="preserve">
+    <value>Saturday</value>
+    <comment>027</comment>
+  </data>
+  <data name="ThuHai" xml:space="preserve">
+    <value>Monday</value>
+    <comment>022</comment>
+  </data>
+  <data name="ThuNam" xml:space="preserve">
+    <value>Thursday</value>
+    <comment>025</comment>
+  </data>
+  <data name="ThuSau" xml:space="preserve">
+    <value>Friday</value>
+    <comment>026</comment>
+  </data>
+  <data name="ThuTu" xml:space="preserve">
+    <value>Wednesday</value>
+    <comment>024</comment>
+  </data>
+  <data name="TiengAnh" xml:space="preserve">
+    <value>English</value>
+    <comment>001</comment>
+  </data>
+  <data name="TiengViet" xml:space="preserve">
+    <value>Vietnamese</value>
+    <comment>002</comment>
+  </data>
+  <data name="TiepTheo" xml:space="preserve">
+    <value>Next</value>
+    <comment>202</comment>
+  </data>
+  <data name="TieuDeThongBao" xml:space="preserve">
+    <value>PSC Message</value>
+    <comment>034</comment>
+  </data>
+  <data name="TinhThanh" xml:space="preserve">
+    <value>Province/City</value>
+    <comment>035</comment>
+  </data>
+  <data name="ToYear" xml:space="preserve">
+    <value>to year</value>
+  </data>
+  <data name="TuNamDenNam" xml:space="preserve">
+    <value>From year...to year</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>User</value>
+    <comment>073</comment>
+  </data>
+  <data name="UserGroup" xml:space="preserve">
+    <value>User group</value>
+    <comment>072</comment>
+  </data>
+  <data name="XacNhanMatKhau" xml:space="preserve">
+    <value>Confirm password</value>
+    <comment>037</comment>
+  </data>
+  <data name="XacNhanMatKhauKhiLuu" xml:space="preserve">
+    <value>Confirm password to save data</value>
+    <comment>059</comment>
+  </data>
+  <data name="XacNhanMatKhauKhiXoa" xml:space="preserve">
+    <value>Confirm password to delete data</value>
+    <comment>061</comment>
+  </data>
+  <data name="XemTruoc" xml:space="preserve">
+    <value>Previous</value>
+    <comment>203</comment>
+  </data>
+  <data name="XoaDuLieu?" xml:space="preserve">
+    <value>Delete data ?</value>
+    <comment>063</comment>
+  </data>
+  <data name="XoaSoVaoSo?" xml:space="preserve">
+    <value>Cancel reference number ?</value>
+  </data>
+  <data name="YearStudy" xml:space="preserve">
+    <value>Academic year</value>
+    <comment>020</comment>
+  </data>
+</root>
