@@ -362,19 +362,19 @@ namespace CMSUI.SystemConfiguration
 
                 int result = BL_ManageDegreeAndCertificate.SaveTemplateSession(strXml, CMSUser._UserID);
 
-                switch (result)
-                {
-                    case 0:
-                        GetData();
-                        XtraMessageBox.Show(rm.GetString("ThanhCong", CMSUser._culture), rm.GetString("TieuDeThongBao", CMSUser._culture), MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        break;
-                    case 1:
-                        XtraMessageBox.Show(rm.GetString("TonTai", CMSUser._culture), rm.GetString("TieuDeThongBao", CMSUser._culture), MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                        break;
-                    default:
-                        XtraMessageBox.Show(rm.GetString("KhongThanhCong", CMSUser._culture), rm.GetString("TieuDeThongBao", CMSUser._culture), MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        break;
-                }
+                //switch (result)
+                //{
+                //    case 0:
+                //        GetData();
+                //        XtraMessageBox.Show(rm.GetString("ThanhCong", CMSUser._culture), rm.GetString("TieuDeThongBao", CMSUser._culture), MessageBoxButtons.OK, MessageBoxIcon.Information);
+                //        break;
+                //    case 1:
+                //        XtraMessageBox.Show(rm.GetString("TonTai", CMSUser._culture), rm.GetString("TieuDeThongBao", CMSUser._culture), MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                //        break;
+                //    default:
+                //        XtraMessageBox.Show(rm.GetString("KhongThanhCong", CMSUser._culture), rm.GetString("TieuDeThongBao", CMSUser._culture), MessageBoxButtons.OK, MessageBoxIcon.Error);
+                //        break;
+                //}
             }
             catch (Exception ex)
             {

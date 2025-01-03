@@ -12,6 +12,7 @@ using DevExpress.XtraPrinting;
 using System.Resources;
 using CMSCore.BLL;
 using CMSDevExpressCommon;
+using DevExpress.XtraGrid.Views.Grid;
 
 namespace CMSUI.SystemConfiguration
 {
@@ -120,6 +121,7 @@ namespace CMSUI.SystemConfiguration
                     if (dr.RowState == DataRowState.Added || dr.RowState == DataRowState.Modified)
                     {
                         strXml += "<KhachHang ID = \"" + dr["ID"].ToString()
+                            + "\" STT = \"" + dr["STT"].ToString()
                             + "\" MaKH = \"" + dr["MaKH"].ToString()
                             + "\" TenKH = \"" + dr["TenKH"].ToString()
                             + "\"/>";
@@ -228,6 +230,23 @@ namespace CMSUI.SystemConfiguration
         {
             if (e.RowHandle >= 0)
                 e.Info.DisplayText = (e.RowHandle + 1).ToString();
+            GridView view = sender as GridView;
+
+            // Kiểm tra nếu là dòng gợi ý để thêm mới
+            if (view.IsNewItemRow(e.RowHandle))
+            {
+                // Vẽ nền tùy chỉnh
+                e.Appearance.BackColor = Color.LightPink;  // Màu nền
+                e.Appearance.ForeColor = Color.DarkRed;    // Màu chữ
+                e.Appearance.Font = new Font(e.Appearance.Font, FontStyle.Bold); // Font chữ đậm
+
+                // Vẽ lại dòng
+                e.Appearance.DrawBackground(e.Cache, e.Bounds);
+                e.Appearance.DrawString(e.Cache, view.NewItemRowText, e.Bounds);
+
+                // Hủy vẽ mặc định
+                e.Handled = true;
+            }
         }
 
         private void btnExcel_Click(object sender, EventArgs e)

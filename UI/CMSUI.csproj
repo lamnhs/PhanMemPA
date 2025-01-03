@@ -315,6 +315,7 @@
       <DependentUpon>frm_CMS_ConnectDatabase.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Lang\MyResource.vi-VN.resx" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

@@ -1,0 +1,554 @@
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.Properties.Resources.resources
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.GenerateResource.cache
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.CoreCompileInputs.cache
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMS.exe.config
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMS.exe
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMS.pdb
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.pdb
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll.config
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.pdb
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.pdb
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.pdb
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\en-US\CMSUI.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\vi-VN\CMSUI.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.AssemblyReference.cache
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.CopyComplete
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.exe
+C:\Users\lamlo\Downloads\UIS_CMS_DEV21\CMS\obj\Debug\CMS.pdb
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe.config
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.pdb
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.pdb
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll.config
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.pdb
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.pdb
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.pdb
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\en-US\CMSUI.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\vi-VN\CMSUI.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.AssemblyReference.cache
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\CMS.Properties.Resources.resources
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.GenerateResource.cache
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.CoreCompileInputs.cache
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.CopyComplete
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.exe
+E:\PhuongAn\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.pdb
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe.config
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.pdb
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.pdb
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.pdb
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.pdb
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.pdb
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\en-US\CMSUI.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\vi-VN\CMSUI.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.Properties.Resources.resources
+D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
+D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.exe
+D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe.config
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.exe
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCommonLib.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSCore.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSDevExpressCommon.pdb
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Docs.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\en-US\CMSUI.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\vi-VN\CMSUI.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.Properties.Resources.resources
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
