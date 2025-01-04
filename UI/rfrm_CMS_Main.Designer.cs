@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            DevExpress.Skins.SkinPaddingEdges skinPaddingEdges3 = new DevExpress.Skins.SkinPaddingEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(rfrm_CMS_Main));
-            DevExpress.Skins.SkinPaddingEdges skinPaddingEdges2 = new DevExpress.Skins.SkinPaddingEdges();
             this.ribbonCMSControl = new DevExpress.XtraBars.Ribbon.RibbonControl();
             this.SmallImageCollection = new DevExpress.Utils.ImageCollection(this.components);
             this.barButtonItemQuanLyFile = new DevExpress.XtraBars.BarButtonItem();
@@ -130,6 +130,8 @@
             this.mnuXuatDanhSachDotCap = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.mnuImportDotCap = new System.Windows.Forms.ToolStripMenuItem();
+            this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonCMSControl)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.SmallImageCollection)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.LargeImageCollection)).BeginInit();
@@ -166,7 +168,7 @@
             // ribbonCMSControl
             // 
             this.ribbonCMSControl.AutoHideEmptyItems = true;
-            this.ribbonCMSControl.EmptyAreaImageOptions.ImagePadding = new System.Windows.Forms.Padding(35, 37, 35, 37);
+            this.ribbonCMSControl.CaptionBarItemLinks.Add(this.barButtonItem2);
             this.ribbonCMSControl.ExpandCollapseItem.Id = 0;
             this.ribbonCMSControl.Font = new System.Drawing.Font("Tahoma", 9F);
             this.ribbonCMSControl.Images = this.SmallImageCollection;
@@ -231,19 +233,19 @@
             this.barButtonItemNhanVien,
             this.barButtonItemThongKeSoLuong,
             this.barButtonItemKhachHang,
-            this.barButtonItemQuanLyNguoiDung});
+            this.barButtonItemQuanLyNguoiDung,
+            this.barButtonItem2});
             this.ribbonCMSControl.LargeImages = this.LargeImageCollection;
             this.ribbonCMSControl.Location = new System.Drawing.Point(0, 0);
-            this.ribbonCMSControl.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.ribbonCMSControl.MaxItemId = 99;
+            this.ribbonCMSControl.MaxItemId = 101;
             this.ribbonCMSControl.Name = "ribbonCMSControl";
-            this.ribbonCMSControl.OptionsMenuMinWidth = 385;
             this.ribbonCMSControl.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.cmsRibbonPageSystem});
             this.ribbonCMSControl.QuickToolbarItemLinks.Add(this.skinRibbonGalleryBarItemInterfate);
             this.ribbonCMSControl.ShowApplicationButton = DevExpress.Utils.DefaultBoolean.False;
+            this.ribbonCMSControl.ShowDisplayOptionsMenuButton = DevExpress.Utils.DefaultBoolean.False;
             this.ribbonCMSControl.ShowToolbarCustomizeItem = false;
-            this.ribbonCMSControl.Size = new System.Drawing.Size(1480, 195);
+            this.ribbonCMSControl.Size = new System.Drawing.Size(1269, 159);
             this.ribbonCMSControl.StatusBar = this.ribbonStatusBar;
             this.ribbonCMSControl.Toolbar.ShowCustomizeItem = false;
             this.ribbonCMSControl.TransparentEditorsMode = DevExpress.Utils.DefaultBoolean.True;
@@ -1161,13 +1163,13 @@
             this.skinRibbonGalleryBarItemInterfate.Gallery.AllowHoverImages = true;
             this.skinRibbonGalleryBarItemInterfate.Gallery.ColumnCount = 4;
             this.skinRibbonGalleryBarItemInterfate.Gallery.FixedHoverImageSize = false;
-            this.skinRibbonGalleryBarItemInterfate.Gallery.ImageSize = new System.Drawing.Size(19, 20);
+            this.skinRibbonGalleryBarItemInterfate.Gallery.ImageSize = new System.Drawing.Size(16, 16);
             this.skinRibbonGalleryBarItemInterfate.Gallery.ItemCheckMode = DevExpress.XtraBars.Ribbon.Gallery.ItemCheckMode.SingleRadio;
             this.skinRibbonGalleryBarItemInterfate.Gallery.ItemImageLayout = DevExpress.Utils.Drawing.ImageLayoutMode.Squeeze;
             this.skinRibbonGalleryBarItemInterfate.Gallery.ItemImageLocation = DevExpress.Utils.Locations.Top;
-            skinPaddingEdges2.Left = 9;
-            skinPaddingEdges2.Right = 9;
-            this.skinRibbonGalleryBarItemInterfate.Gallery.ItemImagePadding = skinPaddingEdges2;
+            skinPaddingEdges3.Left = 8;
+            skinPaddingEdges3.Right = 8;
+            this.skinRibbonGalleryBarItemInterfate.Gallery.ItemImagePadding = skinPaddingEdges3;
             this.skinRibbonGalleryBarItemInterfate.Id = 89;
             this.skinRibbonGalleryBarItemInterfate.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("skinRibbonGalleryBarItemInterfate.ImageOptions.SvgImage")));
             this.skinRibbonGalleryBarItemInterfate.ItemAppearance.Disabled.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold);
@@ -1357,11 +1359,10 @@
             this.ribbonStatusBar.ItemLinks.Add(this.barToggleSwitchItemVietnamese);
             this.ribbonStatusBar.ItemLinks.Add(this.barButtonItemChangeYearStudyAndTerms);
             this.ribbonStatusBar.ItemLinks.Add(this.barStaticItemEnglish);
-            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 690);
-            this.ribbonStatusBar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 561);
             this.ribbonStatusBar.Name = "ribbonStatusBar";
             this.ribbonStatusBar.Ribbon = this.ribbonCMSControl;
-            this.ribbonStatusBar.Size = new System.Drawing.Size(1480, 30);
+            this.ribbonStatusBar.Size = new System.Drawing.Size(1269, 24);
             // 
             // xtraTabbedMdiManager
             // 
@@ -1391,26 +1392,26 @@
             this.mnuCloseAllButThis,
             this.mnuCloseAll});
             this.cmsCloseTab.Name = "cmsCloseTab";
-            this.cmsCloseTab.Size = new System.Drawing.Size(238, 76);
+            this.cmsCloseTab.Size = new System.Drawing.Size(201, 70);
             // 
             // mnuCloseThis
             // 
             this.mnuCloseThis.Name = "mnuCloseThis";
-            this.mnuCloseThis.Size = new System.Drawing.Size(237, 24);
+            this.mnuCloseThis.Size = new System.Drawing.Size(200, 22);
             this.mnuCloseThis.Text = "Đóng cửa sổ này";
             this.mnuCloseThis.Click += new System.EventHandler(this.mnuCloseThis_Click);
             // 
             // mnuCloseAllButThis
             // 
             this.mnuCloseAllButThis.Name = "mnuCloseAllButThis";
-            this.mnuCloseAllButThis.Size = new System.Drawing.Size(237, 24);
+            this.mnuCloseAllButThis.Size = new System.Drawing.Size(200, 22);
             this.mnuCloseAllButThis.Text = "Đóng tất cả cửa sổ khác";
             this.mnuCloseAllButThis.Click += new System.EventHandler(this.mnuCloseButThis_Click);
             // 
             // mnuCloseAll
             // 
             this.mnuCloseAll.Name = "mnuCloseAll";
-            this.mnuCloseAll.Size = new System.Drawing.Size(237, 24);
+            this.mnuCloseAll.Size = new System.Drawing.Size(200, 22);
             this.mnuCloseAll.Text = "Đóng tất cả";
             this.mnuCloseAll.Click += new System.EventHandler(this.mnuCloseAll_Click);
             // 
@@ -1419,21 +1420,19 @@
             this.panelMain.Controls.Add(this.groupControlCommonInfo);
             this.panelMain.Controls.Add(this.groupControlLogin);
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelMain.Location = new System.Drawing.Point(448, 137);
-            this.panelMain.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.panelMain.Location = new System.Drawing.Point(384, 111);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(584, 220);
+            this.panelMain.Size = new System.Drawing.Size(500, 179);
             this.panelMain.TabIndex = 0;
             // 
             // groupControlCommonInfo
             // 
             this.groupControlCommonInfo.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupControlCommonInfo.Controls.Add(this.layoutControlInformation);
-            this.groupControlCommonInfo.Location = new System.Drawing.Point(15, 15);
-            this.groupControlCommonInfo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.groupControlCommonInfo.Location = new System.Drawing.Point(13, 12);
             this.groupControlCommonInfo.Name = "groupControlCommonInfo";
             this.groupControlCommonInfo.ShowCaption = false;
-            this.groupControlCommonInfo.Size = new System.Drawing.Size(553, 93);
+            this.groupControlCommonInfo.Size = new System.Drawing.Size(474, 76);
             this.groupControlCommonInfo.TabIndex = 11;
             this.groupControlCommonInfo.Visible = false;
             // 
@@ -1443,24 +1442,22 @@
             this.layoutControlInformation.Controls.Add(this.txtDate);
             this.layoutControlInformation.Dock = System.Windows.Forms.DockStyle.Fill;
             this.layoutControlInformation.Location = new System.Drawing.Point(2, 2);
-            this.layoutControlInformation.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.layoutControlInformation.Name = "layoutControlInformation";
             this.layoutControlInformation.Root = this.layoutControlGroupInformation;
-            this.layoutControlInformation.Size = new System.Drawing.Size(549, 89);
+            this.layoutControlInformation.Size = new System.Drawing.Size(470, 72);
             this.layoutControlInformation.TabIndex = 0;
             this.layoutControlInformation.Text = "layoutControl1";
             // 
             // txtCurrentUser
             // 
-            this.txtCurrentUser.Location = new System.Drawing.Point(108, 12);
-            this.txtCurrentUser.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtCurrentUser.Location = new System.Drawing.Point(93, 10);
             this.txtCurrentUser.Name = "txtCurrentUser";
             this.txtCurrentUser.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
             this.txtCurrentUser.Properties.Appearance.Options.UseFont = true;
             this.txtCurrentUser.Properties.AutoHeight = false;
             this.txtCurrentUser.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.txtCurrentUser.Properties.ReadOnly = true;
-            this.txtCurrentUser.Size = new System.Drawing.Size(429, 30);
+            this.txtCurrentUser.Size = new System.Drawing.Size(366, 24);
             this.txtCurrentUser.StyleController = this.layoutControlInformation;
             this.txtCurrentUser.TabIndex = 162;
             this.txtCurrentUser.TabStop = false;
@@ -1468,15 +1465,14 @@
             // txtDate
             // 
             this.txtDate.EditValue = "Thứ Tư, 29/08/2018";
-            this.txtDate.Location = new System.Drawing.Point(108, 46);
-            this.txtDate.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtDate.Location = new System.Drawing.Point(93, 38);
             this.txtDate.Name = "txtDate";
             this.txtDate.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
             this.txtDate.Properties.Appearance.Options.UseFont = true;
             this.txtDate.Properties.AutoHeight = false;
             this.txtDate.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.txtDate.Properties.ReadOnly = true;
-            this.txtDate.Size = new System.Drawing.Size(429, 31);
+            this.txtDate.Size = new System.Drawing.Size(366, 24);
             this.txtDate.StyleController = this.layoutControlInformation;
             this.txtDate.TabIndex = 163;
             this.txtDate.TabStop = false;
@@ -1494,7 +1490,7 @@
             this.layoutControlItemCurrentUser,
             this.layoutControlItemDate});
             this.layoutControlGroupInformation.Name = "layoutControlGroupInformation";
-            this.layoutControlGroupInformation.Size = new System.Drawing.Size(549, 89);
+            this.layoutControlGroupInformation.Size = new System.Drawing.Size(470, 72);
             this.layoutControlGroupInformation.TextVisible = false;
             // 
             // layoutControlItemCurrentUser
@@ -1509,33 +1505,33 @@
             this.layoutControlItemCurrentUser.Control = this.txtCurrentUser;
             this.layoutControlItemCurrentUser.Location = new System.Drawing.Point(0, 0);
             this.layoutControlItemCurrentUser.Name = "layoutControlItemCurrentUser";
-            this.layoutControlItemCurrentUser.Size = new System.Drawing.Size(529, 34);
+            this.layoutControlItemCurrentUser.Size = new System.Drawing.Size(452, 28);
             this.layoutControlItemCurrentUser.Text = "Người dùng";
-            this.layoutControlItemCurrentUser.TextSize = new System.Drawing.Size(84, 21);
+            this.layoutControlItemCurrentUser.TextSize = new System.Drawing.Size(72, 17);
             // 
             // layoutControlItemDate
             // 
             this.layoutControlItemDate.AppearanceItemCaption.Font = new System.Drawing.Font("Tahoma", 10F);
             this.layoutControlItemDate.AppearanceItemCaption.Options.UseFont = true;
             this.layoutControlItemDate.Control = this.txtDate;
-            this.layoutControlItemDate.Location = new System.Drawing.Point(0, 34);
-            this.layoutControlItemDate.MinSize = new System.Drawing.Size(162, 32);
+            this.layoutControlItemDate.Location = new System.Drawing.Point(0, 28);
+            this.layoutControlItemDate.MinSize = new System.Drawing.Size(139, 26);
             this.layoutControlItemDate.Name = "layoutControlItemDate";
-            this.layoutControlItemDate.Size = new System.Drawing.Size(529, 35);
+            this.layoutControlItemDate.Size = new System.Drawing.Size(452, 28);
             this.layoutControlItemDate.SizeConstraintsType = DevExpress.XtraLayout.SizeConstraintsType.Custom;
             this.layoutControlItemDate.Text = "Ngày";
-            this.layoutControlItemDate.TextSize = new System.Drawing.Size(84, 21);
+            this.layoutControlItemDate.TextSize = new System.Drawing.Size(72, 16);
             // 
             // groupControlLogin
             // 
             this.groupControlLogin.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupControlLogin.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.groupControlLogin.Controls.Add(this.layoutControlLogin);
-            this.groupControlLogin.Location = new System.Drawing.Point(90, 40);
-            this.groupControlLogin.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.groupControlLogin.Location = new System.Drawing.Point(77, 32);
+            this.groupControlLogin.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupControlLogin.Name = "groupControlLogin";
             this.groupControlLogin.ShowCaption = false;
-            this.groupControlLogin.Size = new System.Drawing.Size(393, 146);
+            this.groupControlLogin.Size = new System.Drawing.Size(337, 119);
             this.groupControlLogin.TabIndex = 10;
             this.groupControlLogin.Text = "groupControl1";
             // 
@@ -1547,10 +1543,9 @@
             this.layoutControlLogin.Controls.Add(this.txtUserName);
             this.layoutControlLogin.Dock = System.Windows.Forms.DockStyle.Fill;
             this.layoutControlLogin.Location = new System.Drawing.Point(0, 0);
-            this.layoutControlLogin.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.layoutControlLogin.Name = "layoutControlLogin";
             this.layoutControlLogin.Root = this.Root;
-            this.layoutControlLogin.Size = new System.Drawing.Size(393, 146);
+            this.layoutControlLogin.Size = new System.Drawing.Size(337, 119);
             this.layoutControlLogin.TabIndex = 0;
             this.layoutControlLogin.Text = "layoutControl1";
             // 
@@ -1561,10 +1556,9 @@
             this.btnExitApplication.AutoWidthInLayoutControl = true;
             this.btnExitApplication.ImageOptions.ImageIndex = 3;
             this.btnExitApplication.ImageOptions.ImageList = this.imageCollection;
-            this.btnExitApplication.Location = new System.Drawing.Point(312, 76);
-            this.btnExitApplication.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnExitApplication.Location = new System.Drawing.Point(267, 66);
             this.btnExitApplication.Name = "btnExitApplication";
-            this.btnExitApplication.Size = new System.Drawing.Size(69, 27);
+            this.btnExitApplication.Size = new System.Drawing.Size(59, 22);
             this.btnExitApplication.StyleController = this.layoutControlLogin;
             this.btnExitApplication.TabIndex = 11;
             this.btnExitApplication.Text = "Thoát";
@@ -1577,10 +1571,9 @@
             this.btnLogin.AutoWidthInLayoutControl = true;
             this.btnLogin.ImageOptions.ImageIndex = 1;
             this.btnLogin.ImageOptions.ImageList = this.imageCollection;
-            this.btnLogin.Location = new System.Drawing.Point(202, 76);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnLogin.Location = new System.Drawing.Point(169, 66);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(106, 27);
+            this.btnLogin.Size = new System.Drawing.Size(94, 22);
             this.btnLogin.StyleController = this.layoutControlLogin;
             this.btnLogin.TabIndex = 12;
             this.btnLogin.Text = "Đăng nhập";
@@ -1588,29 +1581,27 @@
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(135, 44);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtPassword.Location = new System.Drawing.Point(114, 38);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11F, System.Drawing.FontStyle.Bold);
             this.txtPassword.Properties.Appearance.Options.UseFont = true;
             this.txtPassword.Properties.AppearanceFocused.Font = new System.Drawing.Font("Tahoma", 10F);
             this.txtPassword.Properties.AppearanceFocused.Options.UseFont = true;
             this.txtPassword.Properties.PasswordChar = '*';
-            this.txtPassword.Size = new System.Drawing.Size(246, 28);
+            this.txtPassword.Size = new System.Drawing.Size(212, 24);
             this.txtPassword.StyleController = this.layoutControlLogin;
             this.txtPassword.TabIndex = 9;
             this.txtPassword.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPassword_KeyDown);
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(135, 12);
-            this.txtUserName.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtUserName.Location = new System.Drawing.Point(114, 10);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11F, System.Drawing.FontStyle.Bold);
             this.txtUserName.Properties.Appearance.Options.UseFont = true;
             this.txtUserName.Properties.AppearanceFocused.Font = new System.Drawing.Font("Tahoma", 10F);
             this.txtUserName.Properties.AppearanceFocused.Options.UseFont = true;
-            this.txtUserName.Size = new System.Drawing.Size(246, 28);
+            this.txtUserName.Size = new System.Drawing.Size(212, 24);
             this.txtUserName.StyleController = this.layoutControlLogin;
             this.txtUserName.TabIndex = 8;
             this.txtUserName.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtUserName_KeyDown);
@@ -1627,7 +1618,7 @@
             this.layoutControlItemBtnExit,
             this.emptySpaceItemLogin});
             this.Root.Name = "Root";
-            this.Root.Size = new System.Drawing.Size(393, 146);
+            this.Root.Size = new System.Drawing.Size(337, 119);
             this.Root.TextVisible = false;
             // 
             // layoutControlItemUserName
@@ -1637,16 +1628,16 @@
             this.layoutControlItemUserName.Control = this.txtUserName;
             this.layoutControlItemUserName.Location = new System.Drawing.Point(0, 0);
             this.layoutControlItemUserName.Name = "layoutControlItemUserName";
-            this.layoutControlItemUserName.Size = new System.Drawing.Size(373, 32);
+            this.layoutControlItemUserName.Size = new System.Drawing.Size(319, 28);
             this.layoutControlItemUserName.Text = "Tên đăng nhập";
-            this.layoutControlItemUserName.TextSize = new System.Drawing.Size(111, 21);
+            this.layoutControlItemUserName.TextSize = new System.Drawing.Size(93, 17);
             // 
             // emptySpaceItemLeftBtnLogin
             // 
             this.emptySpaceItemLeftBtnLogin.AllowHotTrack = false;
-            this.emptySpaceItemLeftBtnLogin.Location = new System.Drawing.Point(0, 64);
+            this.emptySpaceItemLeftBtnLogin.Location = new System.Drawing.Point(0, 56);
             this.emptySpaceItemLeftBtnLogin.Name = "emptySpaceItemLeftBtnLogin";
-            this.emptySpaceItemLeftBtnLogin.Size = new System.Drawing.Size(190, 31);
+            this.emptySpaceItemLeftBtnLogin.Size = new System.Drawing.Size(158, 26);
             this.emptySpaceItemLeftBtnLogin.TextSize = new System.Drawing.Size(0, 0);
             // 
             // layoutControlItemPassword
@@ -1654,55 +1645,54 @@
             this.layoutControlItemPassword.AppearanceItemCaption.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.layoutControlItemPassword.AppearanceItemCaption.Options.UseFont = true;
             this.layoutControlItemPassword.Control = this.txtPassword;
-            this.layoutControlItemPassword.Location = new System.Drawing.Point(0, 32);
+            this.layoutControlItemPassword.Location = new System.Drawing.Point(0, 28);
             this.layoutControlItemPassword.Name = "layoutControlItemPassword";
-            this.layoutControlItemPassword.Size = new System.Drawing.Size(373, 32);
+            this.layoutControlItemPassword.Size = new System.Drawing.Size(319, 28);
             this.layoutControlItemPassword.Text = "Mật khẩu";
-            this.layoutControlItemPassword.TextSize = new System.Drawing.Size(111, 21);
+            this.layoutControlItemPassword.TextSize = new System.Drawing.Size(93, 17);
             // 
             // layoutControlItemBtnLogin
             // 
             this.layoutControlItemBtnLogin.Control = this.btnLogin;
-            this.layoutControlItemBtnLogin.Location = new System.Drawing.Point(190, 64);
+            this.layoutControlItemBtnLogin.Location = new System.Drawing.Point(158, 56);
             this.layoutControlItemBtnLogin.Name = "layoutControlItemBtnLogin";
-            this.layoutControlItemBtnLogin.Size = new System.Drawing.Size(110, 31);
+            this.layoutControlItemBtnLogin.Size = new System.Drawing.Size(98, 26);
             this.layoutControlItemBtnLogin.TextSize = new System.Drawing.Size(0, 0);
             this.layoutControlItemBtnLogin.TextVisible = false;
             // 
             // layoutControlItemBtnExit
             // 
             this.layoutControlItemBtnExit.Control = this.btnExitApplication;
-            this.layoutControlItemBtnExit.Location = new System.Drawing.Point(300, 64);
+            this.layoutControlItemBtnExit.Location = new System.Drawing.Point(256, 56);
             this.layoutControlItemBtnExit.Name = "layoutControlItemBtnExit";
-            this.layoutControlItemBtnExit.Size = new System.Drawing.Size(73, 31);
+            this.layoutControlItemBtnExit.Size = new System.Drawing.Size(63, 26);
             this.layoutControlItemBtnExit.TextSize = new System.Drawing.Size(0, 0);
             this.layoutControlItemBtnExit.TextVisible = false;
             // 
             // emptySpaceItemLogin
             // 
             this.emptySpaceItemLogin.AllowHotTrack = false;
-            this.emptySpaceItemLogin.Location = new System.Drawing.Point(0, 95);
+            this.emptySpaceItemLogin.Location = new System.Drawing.Point(0, 82);
             this.emptySpaceItemLogin.Name = "emptySpaceItemLogin";
-            this.emptySpaceItemLogin.Size = new System.Drawing.Size(373, 31);
+            this.emptySpaceItemLogin.Size = new System.Drawing.Size(319, 21);
             this.emptySpaceItemLogin.TextSize = new System.Drawing.Size(0, 0);
             // 
             // tableLayoutPanel
             // 
             this.tableLayoutPanel.ColumnCount = 3;
             this.tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 590F));
+            this.tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 506F));
             this.tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel.Controls.Add(this.panelMain, 1, 1);
             this.tableLayoutPanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel.Location = new System.Drawing.Point(0, 195);
-            this.tableLayoutPanel.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.tableLayoutPanel.Location = new System.Drawing.Point(0, 159);
             this.tableLayoutPanel.Name = "tableLayoutPanel";
             this.tableLayoutPanel.RowCount = 3;
             this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 228F));
+            this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 185F));
             this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 25F));
-            this.tableLayoutPanel.Size = new System.Drawing.Size(1480, 495);
+            this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tableLayoutPanel.Size = new System.Drawing.Size(1269, 402);
             this.tableLayoutPanel.TabIndex = 4;
             // 
             // cmsExcel
@@ -1713,37 +1703,53 @@
             this.toolStripSeparator,
             this.mnuImportDotCap});
             this.cmsExcel.Name = "cmsExcel";
-            this.cmsExcel.Size = new System.Drawing.Size(234, 58);
+            this.cmsExcel.Size = new System.Drawing.Size(199, 54);
             // 
             // mnuXuatDanhSachDotCap
             // 
             this.mnuXuatDanhSachDotCap.Name = "mnuXuatDanhSachDotCap";
-            this.mnuXuatDanhSachDotCap.Size = new System.Drawing.Size(233, 24);
+            this.mnuXuatDanhSachDotCap.Size = new System.Drawing.Size(198, 22);
             this.mnuXuatDanhSachDotCap.Text = "Xuất danh sách đợt cấp";
             // 
             // toolStripSeparator
             // 
             this.toolStripSeparator.Name = "toolStripSeparator";
-            this.toolStripSeparator.Size = new System.Drawing.Size(230, 6);
+            this.toolStripSeparator.Size = new System.Drawing.Size(195, 6);
             // 
             // mnuImportDotCap
             // 
             this.mnuImportDotCap.Name = "mnuImportDotCap";
-            this.mnuImportDotCap.Size = new System.Drawing.Size(233, 24);
+            this.mnuImportDotCap.Size = new System.Drawing.Size(198, 22);
             this.mnuImportDotCap.Text = "Import đợt cấp";
+            // 
+            // barButtonItem1
+            // 
+            this.barButtonItem1.Caption = "barButtonItem1";
+            this.barButtonItem1.Id = 99;
+            this.barButtonItem1.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem1.ImageOptions.Image")));
+            this.barButtonItem1.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem1.ImageOptions.LargeImage")));
+            this.barButtonItem1.Name = "barButtonItem1";
+            // 
+            // barButtonItem2
+            // 
+            this.barButtonItem2.Caption = "barButtonItem2";
+            this.barButtonItem2.Id = 100;
+            this.barButtonItem2.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.Image")));
+            this.barButtonItem2.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.LargeImage")));
+            this.barButtonItem2.Name = "barButtonItem2";
+            this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
             // 
             // rfrm_CMS_Main
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1480, 720);
+            this.ClientSize = new System.Drawing.Size(1269, 585);
             this.Controls.Add(this.tableLayoutPanel);
             this.Controls.Add(this.ribbonStatusBar);
             this.Controls.Add(this.ribbonCMSControl);
             this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("rfrm_CMS_Main.IconOptions.Icon")));
             this.IconOptions.Image = ((System.Drawing.Image)(resources.GetObject("rfrm_CMS_Main.IconOptions.Image")));
             this.IsMdiContainer = true;
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "rfrm_CMS_Main";
             this.Ribbon = this.ribbonCMSControl;
             this.StatusBar = this.ribbonStatusBar;
@@ -1887,6 +1893,8 @@
         private DevExpress.XtraBars.BarButtonItem barButtonItemThongKeSoLuong;
         private DevExpress.XtraBars.BarButtonItem barButtonItemKhachHang;
         private DevExpress.XtraBars.BarButtonItem barButtonItemQuanLyNguoiDung;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem2;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem1;
     }
 }
 

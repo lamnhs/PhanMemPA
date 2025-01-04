@@ -767,6 +767,22 @@ namespace CMSUI.SystemConfiguration
             SaveData();
         }
 
+        private void checkButton1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                foreach (int i in gridViewData.GetSelectedRows())
+                {
+
+                    gridViewData.GetDataRow(i)["MaTT"] = lookUpEditTrangThai.EditValue.ToString();
+
+                }
+
+                gridViewData.RefreshData();
+            }
+            catch { }
+        }
+
         private void btnFilter_Click(object sender, EventArgs e)
         {
             GetData();

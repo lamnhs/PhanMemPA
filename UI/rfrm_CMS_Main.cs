@@ -1322,6 +1322,23 @@ namespace CMSUI
             }
         }
 
+        private void barButtonItem2_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if(this.TopMost == true)
+            {
+                this.TopMost = false;
+                BarButtonItem item = e.Item as BarButtonItem;
+                item.Appearance.BackColor = System.Drawing.Color.Empty;
+            }
+            else
+            {
+
+                this.TopMost = true;
+                BarButtonItem item = e.Item as BarButtonItem;
+                item.Appearance.BackColor = System.Drawing.Color.LightBlue;
+            }
+        }
+
         private void barButtonItemProgramAndTitle_ItemClick(object sender, ItemClickEventArgs e)
         {
             if (!CommonFunctions.IsFocusForm(typeof(Extension.frm_CMS_ModifiedProgram), this))

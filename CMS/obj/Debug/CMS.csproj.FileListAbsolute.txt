@@ -416,8 +416,6 @@ D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
 D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.exe
 D:\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.pdb
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe.config
-D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.exe
-D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.pdb
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.exe
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\XIN_FANG_YIN.pdb
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\CMSUI.dll
@@ -552,3 +550,5 @@ D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\bin\Debug\ru\DevExpress.Xp
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.Properties.Resources.resources
 D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.exe
+D:\PA\Phần mềm Phương Ấn\PA\UIS_CMS_DEV21\CMS\obj\Debug\XIN_FANG_YIN.pdb
