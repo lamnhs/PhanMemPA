@@ -1,5 +1,5 @@
 <appSettings
-ConnectionString = "NwQT97m3a+FLzEodveNyXER7oe5wizB3pNrKqjNkd/rlluGE5Pm3uYY87dom5aeJ/Zqesp3zXu25mQk2m9r5IK6WD9CzZHBa9H3YQ68T8ntIPXEhUncpfBy3U2PwFjxZAvIrN3FTL1VSxDNtPLOza2oPQkVMJHrB"
+ConnectionString = "NwQT97m3a+FLzEodveNyXED/hlyNJgOfITgPOKe04He6sp1suYEVCaM8sLx++vq2tG1RRe4Wcbu6tvOnsEYnbLNAWlhy+XuKMne5yDzWTuercmKS5kV72wVOG26yTzuzL30ZeJ0RTzNoDoV1u8IknaMKkS8/I8Rp"
 ProviderName = "System.Data.SqlClient"
 PhanQuyenMoi = "False"
 English = "False"/>
